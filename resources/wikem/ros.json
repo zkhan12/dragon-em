@@ -2,6 +2,7 @@
   {
     "name": "Review of systems documentation",
     "tags": ["review of systems", "general"],
+    "group": "review of systems documentation",
     "note": "CONST: [Negative for fever, body aches and chills.]\n\nHENT: [Negative for neck pain/stiffness, headache, congestion, sore throat, swelling.]\n\nEYES: [Negative for discharge/pain or vision changes.]\n\nRESP: [Negative for cough/hemoptysis and shortness of breath.]\n\nCV: [Negative chest pain, difficulty breathing, palpitations.]\n\nABD: [Negative pain, nausea, vomiting.]\n\nGU: [Negative increase frequency, dysuria, blood in urine or stool.]\n\nMUSC: [Negative for muscle aches, edema.]\n\nSKIN: [Negative rash, lesions/sores.]\n\nNEURO: [Negative headache, dizziness, weakness.]"
   }
 ]
