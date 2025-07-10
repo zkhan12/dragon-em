@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Abscess drainage (Incision/Drainage)",
+    "tags": [
+      "procedure",
+      "general"
+    ],
+    "group": "procedure sample documentation",
+    "note": "Performed by:[]\n    Authorized by:[]\n    Consent: Verbal consent obtained.\n    Risks and benefits: Risks, benefits, and alternatives were discussed\n    Consent given by: Patient\n    Patient understanding: patient states understanding of the procedure being performed\n    Patient consent: the patient's understanding of the procedure matches consent given\n    Patient identity confirmed: arm band\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Type: abscess\n    Location details: [xxx]\n    Anesthesia: local infiltration\n    Local anesthetic: lidocaine 1% with epinephrine\n    Anesthetic total: 15 ml\n    Patient sedated: no\n    Scalpel size: 11\n    Incision type: single straight\n    Complexity: simple\n    Drainage: purulent\n    Drainage amount: moderate\n    Wound treatment: packed\n    Packing material: iodaform\n    Patient tolerance: Patient tolerated the procedure well with no immediate complications."
+  },
+  {
+    "name": "Abscess repacking",
+    "tags": [
+      "procedure",
+      "general"
+    ],
+    "group": "procedure sample documentation",
+    "note": "Abscess Repacking by MD\n    Performed by:[]\n    Authorized by:[]\n    Consent: Verbal consent obtained.\n    Patient identity confirmed: arm band\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Type: abscess\n    Location details: [xxx]\n    Wound treatment: packed with gauze/vessel loop placed\n    Patient tolerance: Patient tolerated the procedure well with no immediate complications."
+  },
+  {
+    "name": "Arthrocentesis",
+    "tags": [
+      "procedure",
+      "general"
+    ],
+    "group": "procedure sample documentation",
+    "note": "Performed by:[]\n    Authorized by:[]\n    Consent: Verbal consent obtained. Written consent obtained.\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Consent given by: patient\n    Patient understanding: patient states understanding of the procedure being performed\n    Patient consent: the patient's understanding of the procedure matches consent given\n    Procedure consent: procedure consent matches procedure scheduled\n    Required items: required blood products, implants, devices, and special equipment available\n    Patient identity confirmed: arm band and verbally with patient\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Preparation: Patient was prepped and draped in the usual sterile fashion.\n    Local anesthesia used: yes\n    Anesthesia: local infiltration\n    Local anesthetic: lidocaine 1% without epinephrine\n    Anesthetic total: 4 ml\n    Patient sedated: no\n    Location: knee\n    Technique: medial approach\n    Patient tolerance: Patient tolerated the procedure well with no immediate complications.\n    Comments: X ccs removed without complication"
+  },
+  {
+    "name": "Cardioversion",
+    "tags": [
+      "procedure",
+      "general"
+    ],
+    "group": "procedure sample documentation",
+    "note": "Performed by:[]\n    Authorized by:[]\n    Consent: Verbal consent obtained. Written consent obtained.\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Consent given by: patient\n    Patient understanding: patient states understanding of the procedure being performed\n    Patient consent: the patient's understanding of the procedure matches consent given\n    Procedure consent: procedure consent matches procedure scheduled\n    Required items: required blood products, implants, devices, and special equipment available\n    Patient identity confirmed: verbally with patient and arm band\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Sedation type: moderate (conscious) sedation\n    Sedatives: propofol\n    Analgesia: fentanyl\n    Vitals: Vital signs were monitored during sedation.\n    Pre-procedure rhythm: atrial fibrillation\n    Patient position: patient was placed in a supine position\n    Chest area: chest area exposed\n    Electrodes: pads\n    Electrodes placed: anterior-posterior\n    Number of attempts: 1\n    Attempt 1 mode: synchronous\n    Attempt 1 shock (in Joules): 150\n    Post-procedure rhythm: normal sinus rhythm\n    Complications: no complications\n    Patient tolerance: Patient tolerated the procedure well with no immediate complications."
+  },
+  {
+    "name": "Ear Foreign Body",
+    "tags": [
+      "procedure",
+      "general"
+    ],
+    "group": "procedure sample documentation",
+    "note": "Performed by:[]\n    Authorized by:[]\n    Consent: Verbal consent obtained.\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Required items: required blood products, implants, devices, and special equipment available\n    Patient identity confirmed: arm band\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Body area: ear\n    Localization method: visualized\n    Removal mechanism: ear scoop, alligator forceps and balloon extraction, irrigation\n    Complexity: complex\n    Objects recovered: 1\n    Post-procedure assessment: foreign body removed\n    Patient tolerance: Patient tolerated the procedure well with no immediate complications"
+  },
+  {
+    "name": "EJ",
+    "tags": [
+      "procedure",
+      "general"
+    ],
+    "group": "procedure sample documentation",
+    "note": "External Jugular Vein Access\n    Performed by:[]\n    Authorized by:[]\n    Consent: Verbal consent obtained.\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Consent given by: patient\n    Patient understanding: patient states understanding of the procedure being performed\n    Patient consent: the patient's understanding of the procedure matches consent given\n    Patient identity confirmed: verbally with patient and arm band\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Indications: vascular access\n    Preparation: skin prepped with 2% chlorhexidine\n    Skin prep agent dried: skin prep agent completely dried prior to procedure\n    Location details: right external jugular\n    Patient position: Trendelenburg\n    Catheter type: IV catheter\n    Pre-procedure: landmarks identified\n    Successful placement: yes\n    Post-procedure: dressing applied\n    Assessment: blood return and free fluid flow\n    Patient tolerance: Patient tolerated the procedure well with no immediate complications."
+  },
+  {
+    "name": "Epistaxis",
+    "tags": [
+      "procedure",
+      "general"
+    ],
+    "group": "procedure sample documentation",
+    "note": "Performed by:[]\n    Authorized by:[]\n    Consent: Verbal consent obtained.\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Consent given by: patient\n    Patient understanding: patient states understanding of the procedure being performed\n    Required items: required blood products, implants, devices, and special equipment available\n    Patient identity confirmed: arm band\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Treatment site: right anterior and right posterior\n    Repair method: nasal balloon\n    Post-procedure assessment: bleeding stopped\n    Treatment complexity: simple\n    Patient tolerance: Patient tolerated the procedure well with no immediate complications"
+  },
+  {
+    "name": "Foreign Body Removal: Eye",
+    "tags": [
+      "procedure",
+      "general"
+    ],
+    "group": "procedure sample documentation",
+    "note": "Performed by:[]\n    Authorized by:[]\n    Consent: Verbal consent obtained.\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Consent given by: patient\n    Patient understanding: patient states understanding of the procedure being performed\n    Patient consent: the patient's understanding of the procedure matches consent given\n    Patient identity confirmed: arm band\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Body area: eye\n    Local anesthetic: tetracaine drops\n    Anesthetic total: 1 drop\n    Patient cooperative: yes\n    Localization method: slit lamp\n    Removal mechanism: moist cotton swab\n    Eye examined with fluorescein.\n    Complexity: simple\n    Objects recovered: 1\n    Post-procedure assessment: foreign body removed\n    Patient tolerance: Patient tolerated the procedure well with no immediate complications.\n    Comments:"
+  },
+  {
+    "name": "G-Tube Placement/Replacement",
+    "tags": [
+      "procedure",
+      "general"
+    ],
+    "group": "procedure sample documentation",
+    "note": "Authorized by:[]\n    Performed by:[]\n    Consent: Verbal consent obtained.\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Consent given by: patient and/or guardian\n    Patient understanding: patient/guardian states understanding of the procedure being performed\n    Patient consent: the patient/guardian's understanding of the procedure matches consent given\n    Patient identity confirmed: arm band\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Location details: abdomen\n    Procedure: using gentle pressure, new g-tube was placed with normal saline injected afterward to fill balloon port\n    Results: KUB with contrast confirms proper placement\n    Complication: Tolerated well without complication."
+  },
+  {
+    "name": "Central Line: IJ",
+    "tags": [
+      "procedure",
+      "general"
+    ],
+    "group": "procedure sample documentation",
+    "note": "Performed by:[]\n    Authorized by:[]\n    Consent: Verbal consent obtained. The procedure was performed in an emergent situation.\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Consent given by: patient\n    Patient understanding: patient states understanding of the procedure being performed\n    Patient consent: the patient's understanding of the procedure matches consent given\n    Procedure consent: procedure consent matches procedure scheduled\n    Patient identity confirmed: verbally with patient and arm band\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Indications: vascular access and central pressure monitoring\n    Anesthesia: local infiltration\n    Local anesthetic: lidocaine 2% with epinephrine\n    Anesthetic total: 4 ml\n    Preparation: skin prepped with 2% chlorhexidine\n    Skin prep agent dried: skin prep agent completely dried prior to procedure\n    Sterile barriers: all five maximum sterile barriers used - cap, mask, sterile gown, sterile gloves, and large sterile sheet\n    Hand hygiene: hand hygiene performed prior to central venous catheter insertion\n    Location details: right internal jugular\n    Patient position: Trendelenburg\n    Catheter type: triple lumen\n    Pre-procedure: landmarks identified\n    Ultrasound guidance: yes\n    Number of attempts: 1\n    Successful placement: yes\n    Post-procedure: line sutured and dressing applied\n    Assessment: blood return through all parts, free fluid flow, placement verified by x-ray and no pneumothorax on x-ray\n    Patient tolerance: Patient tolerated the procedure well with no immediate complications."
+  },
+  {
+    "name": "Intubation",
+    "tags": [
+      "procedure",
+      "general"
+    ],
+    "group": "procedure sample documentation",
+    "note": "Performed by:[]\n    Authorized by:[]\n    Consent: Verbal consent not obtained. The procedure was performed in an emergent situation.\n    Required items: required blood products, implants, devices, and special equipment available\n    Patient identity confirmed: arm band\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Indications: respiratory failure and airway protection"
+  },
+  {
+    "name": "Intubation",
+    "tags": [
+      "procedure",
+      "general"
+    ],
+    "group": "procedure sample documentation",
+    "note": "method: direct\n    Patient status: paralyzed (RSI)\n    Preoxygenation: BVM and nonrebreather mask\n    Sedatives: etomidate\n    Paralytic: succinylcoline\n    Laryngoscope size: Mac 4\n    Tube size: 7.5 mm\n    Tube type: cuffed\n    Number of attempts: 1\n    Cords visualized: yes\n    Post-procedure assessment: chest rise, BS = bilaterally none over epigastrum, +CO2 detector\n    Breath sounds: equal and absent over the epigastrium\n    Cuff inflated: yes\n    ETT to lip: 22 cm\n    Tube secured with: adhesive tape\n    Chest x-ray interpreted by me.\n    Chest x-ray findings: endotracheal tube in appropriate position\n    Patient tolerance: Patient tolerated the procedure well with no immediate complications."
+  },
+  {
+    "name": "IO Line Placement",
+    "tags": [
+      "procedure",
+      "general"
+    ],
+    "group": "procedure sample documentation",
+    "note": "Performed by:[]\n    Authorized by:[]\n    Consent: The procedure was performed in an emergent situation.\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Patient identity confirmed: arm band\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Indications: rapid vascular access\n    Insertion site: right proximal tibia\n    Site preparation: chlorhexidine\n    Insertion device: drill device\n    Insertion: needle was inserted through the bony cortex\n    Number of attempts: 1\n    Confirmation method: stability of the needle, easy infusion of fluids and aspiration of blood/marrow\n    Secured with: protective shield\n    Patient tolerance: Patient tolerated the procedure well with no immediate complications\n\nLaceration\nDermabond\n\n    Lac Repair (with Dermabond)\n    Performed by:[]\n    Authorized by:[]\n    Consent: Verbal consent obtained.\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Consent given by: patient\n    Patient or guardian understanding: States understanding of the procedure being performed\n    Patient or guardian consent: Understanding of the procedure matches consent given\n    Patient identity confirmed: arm band and verbally with patient\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Body area: X\n    Laceration length: X cm\n    Foreign bodies: no foreign bodies\n    Tendon involvement: none\n    Nerve involvement: none\n    Vascular damage: no\n    Anesthesia: local infiltration\n    Local anesthetic: none\n    Anesthetic total: 0 ml\n    Patient sedated: no\n    Preparation: Patient was prepped and draped in the usual sterile fashion.\n    Irrigation solution: saline\n    Irrigation method: jet lavage and syringe\n    Amount of cleaning: extensive\n    Debridement: none\n    Degree of undermining: none\n    Skin closure: Dermabond\n    Number of sutures: NA\n    Technique: simple\n    Approximation: close\n    Approximation difficulty: simple\n    Dressing: antibiotic ointment/4x4 gauze\n    Patient tolerance: Patient tolerated the procedure well with no immediate complications.\n\nStandard\n\n    Lac Repair\n    Performed by:[] DONALDSON, ROSS IRELAND\n    Authorized by:[] DONALDSON, ROSS IRELAND\n    Consent: Verbal consent obtained.\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Consent given by: patient or guardian\n    Patient or guardian understanding: patient or guardian states understanding of the procedure being performed\n    Patient or guardian consent: the patient or guardian's understanding of the procedure matches consent given\n    Patient identity confirmed: arm band and verbally with patient\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Body area: X\n    Laceration length: X cm\n    Foreign bodies: no foreign bodies\n    Tendon involvement: none\n    Nerve involvement: none\n    Vascular damage: no\n    Anesthesia: local infiltration\n    Local anesthetic: lidocaine with epinephrine\n    Anesthetic total: 4 ml\n    Patient sedated: no\n    Preparation: Patient was prepped and draped in the usual sterile fashion.\n    Irrigation solution: saline\n    Irrigation method: jet lavage and syringe\n    Amount of cleaning: extensive\n    Debridement: none\n    Degree of undermining: none\n    Skin closure: 6-0 nylon\n    Number of sutures: X\n    Technique: interupted\n    Approximation: close\n    Approximation difficulty: simple\n    Dressing: antibiotic ointment/4x4 gauze\n    Patient tolerance: Patient tolerated the procedure well with no immediate complications.\n\nStaples\n\n    Lac Repair with Staples\n    Performed by:[]\n    Authorized by:[]\n    Consent: Verbal consent obtained.\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Consent given by: patient\n    Patient or guardian understanding: States understanding of the procedure being performed\n    Patient or guardian consent: Understanding of the procedure matches consent given\n    Patient identity confirmed: arm band and verbally with patient\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Body area: scalp\n    Laceration length: X cm\n    Foreign bodies: no foreign bodies\n    Tendon involvement: none\n    Nerve involvement: none\n    Vascular damage: no\n    Anesthesia: local infiltration\n    Local anesthetic: lidocaine with epinephrine\n    Anesthetic total: 4 ml\n    Patient sedated: no\n    Preparation: Patient was prepped and draped in the usual sterile fashion.\n    Irrigation solution: saline\n    Irrigation method: jet lavage and syringe\n    Amount of cleaning: extensive\n    Debridement: none\n    Degree of undermining: none\n    Skin closure: Staples\n    Number of staples: X\n    Technique: simple\n    Approximation: close\n    Approximation difficulty: simple\n    Dressing: antibiotic ointment/4x4 gauze\n    Patient tolerance: Patient tolerated the procedure well with no immediate complications."
+  },
+  {
+    "name": "Lumbar Puncture",
+    "tags": [
+      "procedure",
+      "general"
+    ],
+    "group": "procedure sample documentation",
+    "note": "Performed by:[]\n    Authorized by:[]\n    Consent: Verbal consent obtained. Written consent obtained.\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Consent given by: patient\n    Patient understanding: patient states understanding of the procedure being performed\n    Patient consent: the patient's understanding of the procedure matches consent given\n    Procedure consent: procedure consent matches procedure scheduled\n    Relevant documents: relevant documents present and verified\n    Test results: test results available and properly labeled\n    Site marked: the operative site was marked\n    Imaging studies: imaging studies available\n    Patient identity confirmed: arm band and verbally with patient\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Anesthesia: local infiltration\n    Local anesthetic: lidocaine 1% without epinephrine\n    Anesthetic total: 4 ml\n    Patient sedated: no\n    Preparation: Patient was prepped and draped in the usual sterile fashion.\n    Lumbar space: L4-L5 interspace\n    Patient's position: lateral decubitus\n    Needle gauge: 22\n    Number of attempts: 1, atraumatic\n    Opening pressure: XX cm H2O\n    Fluid appearance: clear\n    Tubes of fluid: 4\n    Total volume: 4 ml\n    Post-procedure: site cleaned and pressure dressing applied\n    Patient tolerance: Patient tolerated the procedure well with no immediate complications.\n    Comments: Nontraumatic"
+  },
+  {
+    "name": "Orthopedic Nerve Block (Finger)",
+    "tags": [
+      "procedure",
+      "general"
+    ],
+    "group": "procedure sample documentation",
+    "note": "Authorized by:[]\n    Consent: Verbal consent obtained.\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Consent given by: patient and/or guardian\n    Patient understanding: patient/guardian states understanding of the procedure being performed\n    Patient consent: the patient/guardian's understanding of the procedure matches consent given\n    Patient identity confirmed: verbally with patient and arm band\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Location details: [xxx] finger\n    Injection: using standard, sterile technique 4 cc of lidocaine without epinepherine injected\n    Complication: Tolerated well without complication."
+  },
+  {
+    "name": "Orthopedic Reduction (Nursemaid's elbow)",
+    "tags": [
+      "procedure",
+      "general"
+    ],
+    "group": "procedure sample documentation",
+    "note": "Authorized by:[]\n    Consent: Verbal consent obtained.\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Consent given by: Guardian\n    Patient understanding: Guardian states understanding of the procedure being performed\n    Patient consent: Guardian's understanding of the procedure matches consent given\n    Patient identity confirmed: verbally with patient and arm band\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Location details: arm\n    Reduction Procedure: gentle flexion/supination followed by extension/pronation\n    Results: After procedure, the patient was able to move the arm fully without pain. No TTP. Issue fully resolved and patient back to normal.\n    Complication: Tolerated well without complication. DNVI."
+  },
+  {
+    "name": "Ear Cleaning with Cerumen Removal and Placement of Ear Wick",
+    "tags": [
+      "procedure",
+      "general"
+    ],
+    "group": "procedure sample documentation",
+    "note": "Performed by:[]\n    Authorized by:[]\n    Consent: Verbal consent obtained.\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Required items: required blood products, implants, devices, and special equipment available\n    Patient identity confirmed: arm band\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Body area: ear\n    Localization method: visualized\n    Removal mechanism: ear scoop\n    Placement: Ear wick\n    Objects recovered: NA\n    Post-procedure assessment: copious discharge removed\n    Patient tolerance: Patient tolerated the procedure well with no immediate complications"
+  },
+  {
+    "name": "Wound Care by MD (Packing Change)",
+    "tags": [
+      "procedure",
+      "general"
+    ],
+    "group": "procedure sample documentation",
+    "note": "Performed by:[]\n    Authorized by:[]\n    Consent: Verbal consent obtained.\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Consent given by: patient and guardian\n    Patient understanding: patient states understanding of the procedure being performed\n    Patient consent: the patient's understanding of the procedure matches consent given\n    Patient identity confirmed: arm band\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Wound treatment: packing changed\n    Patient tolerance: Patient tolerated the procedure well with no immediate complications."
+  },
+  {
+    "name": "Paracentesis",
+    "tags": [
+      "procedure",
+      "general"
+    ],
+    "group": "procedure sample documentation",
+    "note": "Performed by:[]\n    Authorized by:[]\n    Consent: Verbal consent obtained. Written consent obtained.\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Consent given by: patient\n    Patient understanding: patient states understanding of the procedure being performed\n    Patient consent: the patient's understanding of the procedure matches consent given\n    Procedure consent: procedure consent matches procedure scheduled\n    Required items: required blood products, implants, devices, and special equipment available\n    Patient identity confirmed: arm band and verbally with patient\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Preparation: Patient was prepped and draped in the usual sterile fashion.\n    Local anesthesia used: yes\n    Anesthesia: local infiltration\n    Local anesthetic: lidocaine 1% without epinephrine\n    Anesthetic total: 4 ml\n    Patient sedated: no\n    Patient tolerance: Patient tolerated the procedure well with no immediate complications.\n    Comments: X liters removed without complication\n\nParaphymosis\nNerve Block (Penis)\n\n    Authorized by:[]\n    Performed by:[]\n    Consent: Verbal consent obtained.\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Consent given by: patient and/or guardian\n    Patient understanding: patient/guardian states understanding of the procedure being performed\n    Patient consent: the patient/guardian's understanding of the procedure matches consent given\n    Patient identity confirmed: verbally with patient and arm band\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Location details: penis\n    Injection: using standard, sterile technique 8 cc of lidocaine without epinepherine injected circumferentially\n    Complication: Tolerated well without complication.\n\nReduction of Paraphimosis\n\n    Authorized by:[]\n    Performed by:[]\n    Consent: Written consent obtained.\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Consent given by: patient and/or guardian\n    Patient understanding: patient/guardian states understanding of the procedure being performed\n    Patient consent: the patient/guardian's understanding of the procedure matches consent given\n    Patient identity confirmed: verbally with patient and arm band\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Location details: penis\n    Reduction Procedure: Slow direct pressure first applied; followed by reduction using direct pressure\n    Results: After procedure, fully reduced.\n    Complication: Tolerated well without complication."
+  },
+  {
+    "name": "Paronychia",
+    "tags": [
+      "procedure",
+      "general"
+    ],
+    "group": "procedure sample documentation",
+    "note": "Incision/Drainage of"
+  },
+  {
+    "name": "Paronychia",
+    "tags": [
+      "procedure",
+      "general"
+    ],
+    "group": "procedure sample documentation",
+    "note": "Performed by:[]\n    Authorized by:[]\n    Consent: Verbal consent obtained.\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Consent given by: patient\n    Patient understanding: patient states understanding of the procedure being performed\n    Patient consent: the patient's understanding of the procedure matches consent given\n    Procedure consent: procedure consent matches procedure scheduled\n    Patient identity confirmed: verbally with patient and arm band\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Type: abscess\n    Body area: upper extremity\n    Location details: XX finger\n    Anesthesia: nerve block\n    Local anesthetic: lidocaine 1% without epinephrine\n    Anesthetic total: 4 ml\n    Incision type: single straight\n    Complexity: simple\n    Drainage: purulent\n    Drainage amount: mod\n    Wound treatment: drain placed\n    Packing material: 1/4 in gauze\n    Patient tolerance: Patient tolerated the procedure well with no immediate complications.\n    Comments: With iris sissors, dissected along top of nail."
+  },
+  {
+    "name": "Peritonsillar Abscess",
+    "tags": [
+      "procedure",
+      "general"
+    ],
+    "group": "procedure sample documentation",
+    "note": "Incision/Drainage of"
+  },
+  {
+    "name": "Peritonsillar Abscess",
+    "tags": [
+      "procedure",
+      "general"
+    ],
+    "group": "procedure sample documentation",
+    "note": "Performed by:[]\n    Authorized by:[]\n    Consent: Verbal consent obtained.\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Consent given by: patient and guardian\n    Patient understanding: patient states understanding of the procedure being performed\n    Patient consent: the patient's understanding of the procedure matches consent given\n    Patient identity confirmed: arm band\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Type: peritonsilar abscess\n    Location details: right\n    Anesthesia: local infiltration and spray\n    Local anesthetic: lidocaine 1% with epinephrine and benzocaine spray\n    Anesthetic total: 2 ml\n    Patient sedated: no\n    Incision type: straight puncture to 1.5 cm with spinal needle covered by plastic cover\n    Attempts: 3\n    Drainage: purulent drainage\n    Drainage amount: 5cc\n    Patient tolerance: Patient tolerated the procedure well with no immediate complications."
+  },
+  {
+    "name": "Digit reduction",
+    "tags": [
+      "procedure",
+      "general"
+    ],
+    "group": "procedure sample documentation",
+    "note": "Orthopedic Reduction (Digit)\n    Authorized by:[]\n    Performed by:[]\n    Consent: Verbal consent obtained.\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Consent given by: patient and/or guardian\n    Patient understanding: patient/guardian states understanding of the procedure being performed\n    Patient consent: the patient/guardian's understanding of the procedure matches consent given\n    Patient identity confirmed: verbally with patient and arm band\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Location details: X\n    Reduction Procedure: gentle hyperextension and axial pull\n    Results: After procedure, digit was fully mobile\n    Complication: Tolerated well without complication. <2sec CRT. Tendons intact."
+  },
+  {
+    "name": "Fracture Reduction",
+    "tags": [
+      "procedure",
+      "general"
+    ],
+    "group": "procedure sample documentation",
+    "note": "Authorized by:[]\n    Performed by:[]\n    Consent: Verbal consent obtained.\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Consent given by: patient and/or guardian\n    Patient understanding: patient/guardian states understanding of the procedure being performed\n    Patient consent: the patient/guardian's understanding of the procedure matches consent given\n    Patient identity confirmed: verbally with patient and arm band\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Location details: ?\n    Reduction Procedure: axial pull and closed manipulation\n    Results: Post reduction alignement improved\n    Complication: Tolerated well without complication. <2sec CRT. Tendons intact."
+  },
+  {
+    "name": "Hernia Reduction",
+    "tags": [
+      "procedure",
+      "general"
+    ],
+    "group": "procedure sample documentation",
+    "note": "Authorized by:[]\n    Consent: Verbal consent obtained.\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Consent given by: patient and/or guardian\n    Patient understanding: patient/guardian states understanding of the procedure being performed\n    Patient consent: the patient/guardian's understanding of the procedure matches consent given\n    Patient identity confirmed: verbally with patient and arm band\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Location details: XX hernia\n    Reduction Procedure: Direct pressure, constant\n    Results: After procedure, fully reduced. No TTP.\n    Complication: Tolerated well without complication."
+  },
+  {
+    "name": "Procedural (Conscious) Sedation",
+    "tags": [
+      "procedure",
+      "general"
+    ],
+    "group": "procedure sample documentation",
+    "note": "Authorized by:[]\n    Performed by:[]\n    Consent: Written consent obtained (see nursing note)\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Consent given by: patient\n    Patient understanding: states understanding of the procedure being performed\n    Patient consent: understanding of the procedure matches consent given\n    Patient identity confirmed: verbally with patient and arm band\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Medication IV: [xxx]\n    Complication: Tolerated well without complication. No hypoxic episodes.\n    Time: Total intra-service time with patient was 17 minutes."
+  },
+  {
+    "name": "Splint Application and Check",
+    "tags": [
+      "procedure",
+      "general"
+    ],
+    "group": "procedure sample documentation",
+    "note": "Authorized by:[]\n    Consent: Verbal consent obtained.\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Consent given by: patient\n    Patient understanding: patient states understanding of the procedure being performed\n    Patient consent: the patient's understanding of the procedure matches consent given\n    Patient identity confirmed: verbally with patient and arm band\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Location details: XX\n    Post-procedure: The splinted body part was neurovascularly unchanged following the procedure.\n    Patient tolerance: Patient tolerated the procedure well with no immediate complications."
+  },
+  {
+    "name": "Subungal hematoma",
+    "tags": [
+      "procedure",
+      "general"
+    ],
+    "group": "procedure sample documentation",
+    "note": "Incision/Drainage of Subungual Hematoma\n    Performed by:[]\n    Authorized by:[]\n    Consent: Verbal consent obtained.\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Consent given by: patient\n    Patient understanding: states understanding of the procedure being performed\n    Patient consent: understanding of the procedure matches consent given\n    Patient identity confirmed: arm band\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Type: abscess\n    Location details: [xxx]\n    Anesthesia: NA\n    Patient sedated: no\n    Incision type: single with electric cautery\n    Complexity: simple\n    Drainage: blood\n    Drainage amount: moderate\n    Wound treatment: dressed\n    Patient tolerance: Patient tolerated the procedure well with no immediate complications."
+  },
+  {
+    "name": "Suture Removal",
+    "tags": [
+      "procedure",
+      "general"
+    ],
+    "group": "procedure sample documentation",
+    "note": "Performed by:[]\n    Authorized by:[]\n    Consent: Verbal consent obtained.\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Consent given by: patient\n    Patient understanding: patient states understanding of the procedure being performed\n    Patient consent: the patient's understanding of the procedure matches consent given\n    Patient identity confirmed: verbally with patient and arm band\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Body area: [xxx]\n    Wound Appearance: clean\n    Post-removal: Steri-Strips applied and antibiotic ointment applied\n    Patient tolerance: Patient tolerated the procedure well with no immediate complications.\n\nIngrown toenail\nOrthopedic Nerve Block (toe)\n\n    Authorized by:[]\n    Consent: Verbal consent obtained.\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Consent given by: patient and/or guardian\n    Patient understanding: patient/guardian states understanding of the procedure being performed\n    Patient consent: the patient/guardian's understanding of the procedure matches consent given\n    Patient identity confirmed: verbally with patient and arm band\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Location details: [xxx]\n    Injection: using standard, sterile technique 4 cc of lidocaine without epinepherine injected to cover all 4 nerves (2 injections)\n    Complication: Tolerated well without complication.\n\nToenail Removal\n\n    Performed by:[]\n    Authorized by:[]\n    Consent: Verbal consent obtained.\n    Risks and benefits: risks, benefits and alternatives were discussed\n    Consent given by: patient and guardian\n    Patient understanding: patient states understanding of the procedure being performed\n    Patient consent: the patient's understanding of the procedure matches consent given\n    Patient identity confirmed: arm band\n    Time out: Immediately prior to procedure a \"time out\" was called to verify the correct patient, procedure, equipment, support staff and site/side marked as required.\n    Type: ingrown toenail\n    Location details: [xxx]\n    Procedure: Below toenail blunt dissected with kelly to base. Then, peripheral nail clamped and torqued until linear break to base of nail including growth area, and removed.\n    Complication: None\n    Wound treatment: 4x4\n    Patient tolerance: Patient tolerated the procedure well with no immediate complications"
+  }
+]

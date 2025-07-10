@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Physical exam 1",
+    "tags": [
+      "physical exam",
+      "general"
+    ],
+    "group": "physical exam documentation",
+    "note": "GENERAL APPEARANCE [NAD, activity normal for age, well developed/ well nourished, no cyanosis, pallor, or diaphoresis.]\n\nEYES [lids/conjunctiva normal.] EARS/NOSE/THROAT [Mucous membranes moist, nares normal, lips/teeth normal uvula midline without oral pharyngeal erythema, exudate or swelling TMs normal bilaterally. No lymphangitis/lymphedema.]\n\nHEAD/NECK [normocephalic atraumatic, no facial trauma, neck is supple.]\n\n[RESPIRATORY respiratory effort normal, speaks in full sentences, no tripod position, no accessory muscle use. Lungs clear to auscultation without rhonchi, wheezes, rales]\n\nCARDIAC [Regular rate and rhythm, no edema.]\n\nABDOMINAL [Soft, ND/NT. No evidence of fluid wave. No pulsatile masses on exam, rebound tenderness, Murphy sign or pain over Mcburney's point.]\n\nMUSCLES/EXTREMITIES [No abnormal range of motion, no swelling.]\n\nSKIN [Warm, pink and dry. No rashes, dermatoses, petechiae or lesions.]\n\nNEUROLOGICAL [Speech is clear and appropriate. Normal level of consciousness. Gait and coordination are normal. 5/5 strength in all extremities.]\n\nPSYCH [Normal mood and affect. Judgement/competence is appropriate]"
+  },
+  {
+    "name": "Physical exam 2",
+    "tags": [
+      "physical exam",
+      "general"
+    ],
+    "group": "physical exam documentation",
+    "note": "Gen: [A&O NAD]\n\nLungs: [No Respiratory distress]\n\nNeuro: [Normal Gait, Grossly intact.]"
+  },
+  {
+    "name": "Physical exam 3",
+    "tags": [
+      "physical exam",
+      "general"
+    ],
+    "group": "physical exam documentation",
+    "note": "Gen: [A&O NAD]\n\nHEENT: [NCAT, EOMI, not icteric. External ears normal. No rhinorrhea. Moist mucous membranes.]\n\nNeck: [Supple, full range of motion, no observable masses, No meningeal sign.]\n\nLungs: [No Respiratory distress.]\n\nCV: [RRR, no edema.]\n\nAbdomen: [Soft, nondistended, No rebound tenderness.]\n\nMSK: [No joint swelling, no redness.]\n\nSkin: [No rashes, petechiae, lesions. Normal color per patient.]\n\nNeuro: [Normal Gait, Grossly intact.]\n\nPsych: [Appropriate for situation.]"
+  },
+  {
+    "name": "Physical exam 4",
+    "tags": [
+      "physical exam",
+      "general"
+    ],
+    "group": "physical exam documentation",
+    "note": "Gen: [WNWD appropriate for age. Non-toxic.]\n\nRespiratory: [normal effort. No audible wheezing or stridor.]\n\nAbdomen: [Neg rebound murphy or pain over Mcburneys point. + suprapubic tenderness. -CVA tenderness.]\n\nNeuro: [Speech is clear and appropriate. nml lv of consciousness, gait and balance nml. +5/5 strength extremeities.]"
+  },
+  {
+    "name": "ENT Exam",
+    "tags": [
+      "physical exam",
+      "general"
+    ],
+    "group": "physical exam documentation",
+    "note": "HEENT: [NCAT, EMOI, noninjected, non-icteric, external ears normal, moist mucous membranes]"
+  },
+  {
+    "name": "Neurological exam",
+    "tags": [
+      "physical exam",
+      "general"
+    ],
+    "group": "physical exam documentation",
+    "note": "[Speech is clear and appropriate. nml lv of consciousness, gait and balance nml. +5/5 strength in all extremities.]"
+  },
+  {
+    "name": "Abdominal exam",
+    "tags": [
+      "physical exam",
+      "general"
+    ],
+    "group": "physical exam documentation",
+    "note": "[Abdomen: Soft, nondistended, nontender. Negative fluid wave. No masses appreciated on palpation, negative Murphy sign, negative pain over McBurney's point. No CVA tenderness.]\n\n\nAbdomen: [ND/NT, soft, no rebound tenderness]"
+  },
+  {
+    "name": "Cellulitis",
+    "tags": [
+      "physical exam",
+      "general"
+    ],
+    "group": "physical exam documentation",
+    "note": "[Compartments soft. <2sec CRT. +2 pulse. Normal sensation. Nerves and tendons intact. No tenderness to palpation proximal or distal. No skip lesions. No fluctuance or signs of drainable abscess. No palpable crepitus.]"
+  },
+  {
+    "name": "Slit lamp exam",
+    "tags": [
+      "physical exam",
+      "general"
+    ],
+    "group": "physical exam documentation",
+    "note": "[    Slit Lamp with fluorescein\n    Lids/lashes = nl\n    Conjunctiva = cl\n    Cornea = cl\n    Anterior chamber = D/Q\n    Iris = R/R\n    Lens = cl\n\n    No FB noted on extensive exam]"
+  },
+  {
+    "name": "Knee",
+    "tags": [
+      "physical exam",
+      "general"
+    ],
+    "group": "physical exam documentation",
+    "note": "[Anterior/posterior/varus/valgus/McMurry's tests negative. Patella in place. No instability of knee. Negative Ballottement test. Neg axial load.]"
+  },
+  {
+    "name": "Ortho normal",
+    "tags": [
+      "physical exam",
+      "general"
+    ],
+    "group": "physical exam documentation",
+    "note": "[No open fracture. Compartments soft. <2sec CRT. +2 pulse. Normal sensation. Nerves and tendons intact. No tenderness to palpation proximal or distal. No retained foreign body or signs of infection.]"
+  },
+  {
+    "name": "Ortho upper extremity",
+    "tags": [
+      "physical exam",
+      "general"
+    ],
+    "group": "physical exam documentation",
+    "note": "[bilateral upper extremities fires ain/pin/u slit fwds/sf/if, radial 2+, CRT <2s]"
+  },
+  {
+    "name": "Ortho lower extremity",
+    "tags": [
+      "physical exam",
+      "general"
+    ],
+    "group": "physical exam documentation",
+    "note": "[    Bilateral lower extremities\n    Sensory: SILT S/S/DP/SP/T\n    FIRES TA, EHL, GS, FHL\n    DP 2+ , CRT <2s]"
+  },
+  {
+    "name": "Rectal Exam",
+    "tags": [
+      "physical exam",
+      "general"
+    ],
+    "group": "physical exam documentation",
+    "note": "[    Chaperone was in plain view of my exam for the full duration.\n    Normal external anus and normal tone.\n    No palpable masses, normal mucosa, brown stool.]"
+  },
+  {
+    "name": "Pelvic exam",
+    "tags": [
+      "physical exam",
+      "general"
+    ],
+    "group": "physical exam documentation",
+    "note": "[    Pelvic Exam (with Female Chaperone):\n    External: Normal\n    Vaginal: Normal\n    Bimanual: Negative]"
+  }
+]

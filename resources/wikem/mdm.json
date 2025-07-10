@@ -1,0 +1,794 @@
+[
+  {
+    "name": "Chest pain MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Exam without evidence of volume overload so doubt heart failure. EKG without signs of active ischemia. Given the timing of pain to ER presentation, single troponin[] delta troponin[] was [] so doubt NSTEMI. Presentation not consistent with acute PE (Wells low risk [] PERC negative[]),pneumothorax (not visualized on chest xr), thoracic aortic dissection, pericarditis, tamponade, pneumonia (no infectious symptoms, clear chest xr), myocarditis (no recent illness, neg trop). HEART score:[] so plan to admit patient for risk stratification[]; discharge patient home with PMD follow up[]."
+  },
+  {
+    "name": "STEMI MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient presents with chest pain and an EKG showing [] STEMI or STEMI equivalent (Wellens, de Winter’s, Sgarbossa criteria)[]. Patient given aspirin. Pain controlled with []. Presentation not consistent with acute thoracic aortic dissection. No evidence of acute ACS complications including cardiogenic shock (2/2 muscle loss or valvular rupture), tachydysrhythmia or electrical conduction disturbance. Patient taken to cath lab."
+  },
+  {
+    "name": "NSTEMI MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Patient presented with chest pain concerning for ACS, EKG was non STEMI, however troponin was elevated concerning for NSTEMI, and the patient was given aspirin and started on heparin, pain was controlled with [], cardiology was consulted and patient was admitted. Patient with no signs of heart failure. Given history and story considered but low risk for aortic dissection, pneumonia, or PE.\nVolume overload"
+  },
+  {
+    "name": "CHF exacerbation MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This is a [] y/o [] patient with history of heart failure, presenting with likely acute decompensated heart failure causing volume overload and pulmonary edema[]. The etiology of the decompensation is not certain but is likely due to[]. Alternative etiologies I considered include cardiac (ACS, valvular disease, arrhythmia, myocarditis/endocarditis, dissection) however given unremarkable trop, ekg, cardiac exam have low suspicion. Also considered but low risk for respiratory cause (COPD, asthma, PE, or PNA), medication noncompliance or dietary indiscretion, alcohol or drug abuse, endocrine (thyrotoxicosis), and anemia[]. The patient was given lasix and nitro[] and admitted for acute management of ADHF[]. Patient hemodynamically stable so given lasix and discharged home with mild heart failure exacerbation told to increase lasix dosing for 2 days and then return to normal dosing with close follow up with PMD or cardiologist.[]"
+  },
+  {
+    "name": "Volume overload MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Patient presents for swelling and shortness of breath and found to be volume overloaded on exam likely secondary to renal failure [], heart failure [], nephrotic syndrome [], cirrhosis based on history, exam, and work up. Patient was given lasix[], nephrology consulted and patient was dialyzed. Patient admitted for volume overload.\nCardiac Arrest"
+  },
+  {
+    "name": "Cardiac arrest MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Per EMS report, patient was found down[], had witnessed arrest[]. Approximate downtime prior to compressions: []. Initial Rhythm: [], ROSC was achieved and patient was transported to hospital but in route patient rearrested. Cardiac compressions were performed immediately by staff in order to sustain blood flow. The patient was ventilated and oxygenated via BVM and then through endotracheal tube after intubation. The patient received appropriate ACLS measures and these were repeated as necessary throughout the resuscitation. See nursing note for medications and times given. Cardiac arrest was likely secondary to []. Critical care time spent > 30 minutes in coordination of efforts for cardiopulmonary resuscitation. ROSC was achieved and patient admitted to ICU.[] Despite all efforts, patient remained in cardiac arrest with no response to treatment measures and resuscitation attempt. After [] min, I discontinued resuscitation and patient was pronounced deceased. Family was made aware.[]\n\n[]Family members were notified that the patient may pass away soon. Family members requested discontinuation of resuscitation efforts. After discontinuation of resuscitation, I did not observe spontaneous breathing or appreciate heart sounds on auscultation. There was no palpable radial pulse. The patient did not respond to nail bed stimuli. I examined the patient and there was no pupillary response to light. Patient was pronounced deceased."
+  },
+  {
+    "name": "ROSC MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Per EMS report, patient was found down[], had witnessed arrest[]. Approximate downtime prior to compressions: []. Initial Rhythm: [], ROSC was achieved and patient was transported to hospital, upon arrival patient was ventilated and oxygenated via BVM and then through endotracheal tube after intubation. The patient was placed on a levophed drip and resuscitated. Cardiac arrest was likely secondary to []. Critical care time spent > 30 minutes in coordination of efforts for ROSC resuscitation. Patient admitted to ICU.\nAbdominal Pain"
+  },
+  {
+    "name": "Lower Abdominal pain F non preg MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Patient presents with lower abdominal pain/pelvic pain. Abdominal exam without peritoneal signs. No evidence of acute abdomen at this time. Well appearing. Patient with pelvic done with no CMT, adnexal tenderness, or vaginal discharge concerning for PID or TOA. Considered ovarian torsion but doubt given history and presentation. Given work up low suspicion for acute hepatobiliary disease (including acute cholecystitis), acute pancreatitis (neg lipase), PUD and gastric perforation, acute infectious processes (pneumonia, hepatitis, pyelonephritis), acute appendicitis, vascular catastrophe, bowel obstruction or viscus perforation, diverticulitis. Presentation not consistent with other acute, emergent causes of abdominal pain at this time."
+  },
+  {
+    "name": "Abdominal pain M MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Abdominal exam without peritoneal signs. No evidence of acute abdomen at this time. Well appearing. Given work up, low suspicion for acute hepatobiliary disease (including acute cholecystitis or cholangitis), acute pancreatitis (neg lipase), PUD (including gastric perforation), acute infectious processes (pneumonia, hepatitis, pyelonephritis), acute appendicitis, vascular catastrophe, bowel obstruction, viscus perforation, or testicular torsion, diverticulitis. Presentation not consistent with other acute, emergent causes of abdominal pain at this time."
+  },
+  {
+    "name": "Testicular Pain MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "The patient is suffering from testicular pain, but based on the history, exam, and work up, I do not suspect that the patient has testicular torsion, abscess, severe cellulitis, Fournier’s gangrene, orchitis, epididymitis, inguinal hernia or other emergent cause."
+  },
+  {
+    "name": "RUQ abdominal pain MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "[] y/o patient with RUQ abdominal pain, consistent with []. Abdominal exam without peritoneal signs. No evidence of acute abdomen at this time. Well appearing. Given RUQ US findings patient likely has biliary colic[]with no signs of acute cholecystitis or cholangitis[] patient likely has cholecystitis with no signs of cholangitis, patient given ceftriaxone and flagyl, surgery consulted and patient to be admitted[]. Less likely to represent acute pancreatitis (neg lipase), PUD (including gastric perforation), acute infectious processes (pneumonia, hepatitis, pyelonephritis), atypical appendicitis, vascular catastrophe, bowel obstruction or viscus perforation, or acute coronary syndrome. Presentation not consistent with other acute, emergent causes of abdominal pain at this time."
+  },
+  {
+    "name": "RLQ abdominal pain MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This is a [] with RLQ pain, most concerning for []. Abdominal exam without peritoneal signs. No evidence of acute abdomen at this time, low suspicion for appendicitis given negative CT scan[]. Patient with appendicitis as seen on CT scan, patient given ceftriaxone and flagyl, surgery consulted and patient admitted[]. Given work up, low suspicion for acute hepatobiliary disease (including acute cholecystitis or cholangitis), acute infectious processes (pneumonia, hepatitis, pyelonephritis), vascular catastrophe, bowel obstruction, or viscus perforation. Presentation not consistent with other acute, emergent causes of abdominal pain at this time.\n\n            If male add []no signs of testicular torsion\n            If female add []no signs of ovarian torsion, tubo ovarian abscess, PID, neg Upreg so doubt ectopic pregnancy."
+  },
+  {
+    "name": "Epigastric abdominal pain MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Presentation consistent with acute epigastric abdominal pain likely secondary to gastritis/GERD, plan to send patient home with PPI/H2 blocker and PMD follow up. Abdominal exam without peritoneal signs. No evidence of acute abdomen at this time. Well appearing. Given work up have low suspicion for acute hepatobiliary disease (including acute cholecystitis or cholangitis), upper GI bleed, acute pancreatitis, gastric perforation, acute infectious processes (pneumonia, hepatitis, pyelonephritis), atypical appendicitis, vascular catastrophe, bowel obstruction or viscus perforation, or acute coronary syndrome. Presentation not consistent with other acute, emergent causes of abdominal pain at this time.\nGI bleeding"
+  },
+  {
+    "name": "Rectal bleed",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient has a presentation consistent with rectal bleeding, most likely due to []. Low suspicion for inflammatory bowel disorder, rectal ulcer (HIV, syphilis, STI) or rectal foreign body. Presentation not consistent with other acute, emergent causes of upper or lower GI bleeding. No evidence of hemorrhagic shock."
+  },
+  {
+    "name": "Lower GI bleed",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient presents with symptoms concerning for a lower GI bleed. Differential diagnoses include diverticulosis (most common cause) versus hemorrhoids. Less likely etiologies include angiodysplasia, cancer, IBD. Presentation not consistent with mesenteric ischemia or ischemic colitis, brisk or life threatening upper GIB as patient has no evidence of hemorrhagic shock, melena."
+  },
+  {
+    "name": "UGIB",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient presents with symptoms concerning for an acute upper GI bleed. Differential diagnoses includes peptic ulcer disease, versus gastritis/gastric ulcer, versus possible AVM. Presentation not consistent with esophageal or gastric variceal bleeding or Boerhaave’s syndrome. Presentation not consistent with other etiologies upper GI bleeding at this time. No red flag features or high risk bleeding. No evidence of hemorrhagic shock. Glasgow-Blatchford Bleeding (GBS) score: []. Based on this well validated study, the patient can safely be discharged for outpatient therapy[]; is “high risk” for needing a medical intervention to include transfusion, endoscopy or surgery, so the patient was admitted. Patient received PPI, octreotide, ceftriaxone [].\nVomiting and Diarrhea"
+  },
+  {
+    "name": "Nausea/Vomiting MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient with nausea and vomiting which is likely secondary to benign infectious cause[] cannabis hyperemesis syndrome[] gastroparesis[]. Considered but low risk for SBO (normal BM, passing flatus, no abdominal surgeries), no signs of DKA in labs. Patient BMP with normal electrolytes and no sign of dehydration causing prerenal AKI. Low suspicion for gastric or esophageal dysmotility as cause[]. Patient with no chest pain, unremarkable EKG so low suspicion for ACS. Based on history, exam, and work up low suspicion for pancreatitis, appendicitis, biliary pathology, or other emergent problem. Patient given zofran and tolerated PO here. Patient to be discharged with zofran and to follow up with PMD."
+  },
+  {
+    "name": "Gastroenteritis MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient presents with nausea, vomiting & diarrhea. Differential diagnosis includes possible acute gastroenteritis. Abdominal exam without peritoneal signs. Currently euvolemic without evidence of dehydration. Doubt invasive bacteria causing diarrhea such as C diff (no recent antibiotics), shiga toxin (non bloody). No recent travel. Patient is not immunocompromised. Diarrhea is non bloody so less likely inflammatory bowel disease. No evidence of surgical abdomen or other acute medical emergency including bowel obstruction, viscus perforation, vascular catastrophe, atypical appendicitis, acute cholecystitis,"
+  },
+  {
+    "name": "UGIB",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": ", thyrotoxicosis, or diverticulitis at this time. Presentation not consistent with other acute, emergent causes of vomiting / diarrhea at this time. No indication for abdominal imaging."
+  },
+  {
+    "name": "Acute Diarrhea MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient presents with non bloody diarrhea consistent with likely viral enteritis. Doubt invasive bacteria causing diarrhea such as C diff (no recent antibiotics), shiga toxin (non bloody). No recent travel. Patient is not immunocompromised. Diarrhea is non bloody so less likely inflammatory bowel disease. Given history, I have low suspicion for giardia or other parasites. Considered, but think unlikely, partial SBO, appendicitis, diverticulitis, other intraabdominal infection. Low suspicion for secondary causes of diarrhea such as hyperadrenergic state, pheo, adrenal crisis, thyrotoxicosis, or sepsis.\nSyncope"
+  },
+  {
+    "name": "Syncope low risk MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Given history, exam and workup, low suspicion for HF, ICH (no trauma, headache), seizure (no witnessed seizure like activity, no postictal period, tongue laceration, bladder incontinence), stroke (no focal neuro deficits), HOCM (no murmur, family history of sudden death), ACS (neg troponin, no anginal pain), aortic dissection (no chest pain), malignant arrhythmia on ekg or any family history of sudden death, or GI bleed (stable hgb). Low suspicion for PE given normal vital signs, absence of chest pain or dyspnea, no evidence of DVT, no recent surgery/immobilization. Based on canadian syncope rule, patient is low risk and well appearing here, plan to discharge the patient home with PMD follow up."
+  },
+  {
+    "name": "Syncope - admit MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient presents with symptoms consistent with syncope, most likely due to []. Differential diagnosis includes reflexive syncope (vasovagal). Low suspicion for orthostatic syncope given lack of dehydration, no evidence of acute life threatening hemorrhage (stable hgb). Presentation not consistent with seizures given short time course, no postictal state, no seizure activity. Low suspicion for acute neurologic catastrophes to include ICH given lack of trauma, risk factors for bleeding, or stroke given no focal neuro deficits. Low suspicion for vascular catastrophes to include PE, thoracic aortic dissection, AAA rupture. Presentation not consistent with acute life threatening arrhythmia, structural heart disease, electrical conduction abnormalities, or ACS (HEART score: []). However, given age, cardiovascular risk factors, history & physical, will workup and admit to telemetry.\nheadache and Neuro complaints"
+  },
+  {
+    "name": "Seizure MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient presents with symptoms consistent with acute seizure, most likely due to []. I considered, but think less likely, secondary etiologies of epileptic seizures to include drug / toxin etiologies (ETOH, stimulants, medication side effects), metabolic disturbances (glucose, Na), acute CNS infections (meningitis, encephalitis, abscess), ICH / tumor / CVA. Presentation not consistent with impact seizure related to head trauma. Patient with no signs of trauma from the seizure. The post-ictal state resolved prior to discharge and the patient had returned to neurological baseline. Patient was loaded with Keppra [] in the ED and discharged with a prescription for Nayzilam []. DMV was notified to remove patient's licence[], patient was given strict seizure precautions. Patient to follow up with PMD."
+  },
+  {
+    "name": "Stroke MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient presents with symptoms concerning for acute CVA versus TIA. Other items on the differential include dissection, AMI, hypoglycemia or other metabolic derangement such as hepatic/uremic encephalopathy, medication side effect, or post-ictal Todd’s paralysis. However, presentation most concerning for a CVA. EKG without evidence of STEMI or ischemia, labs with no hypoglycemia, metabolic derangements, and clinical picture does not suggest other stroke mimic. CT head showed []. CTA head and neck showed []. Per neuro []."
+  },
+  {
+    "name": "Headache MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient presents with a headache most consistent with benign headache from either tension type headache vs migraine. No headache red flags. Neurologic exam without evidence of meningismus, AMS, focal neurologic findings so doubt meningitis, encephalitis, stroke. Presentation not consistent with acute intracranial bleed to include SAH (lack of risk factors, headache history). No history of trauma so doubt ICH. Given history and physical temporal arteritis unlikely, as is acute angle closure glaucoma. Doubt carotid artery dissection given no focal neuro deficits, no neck trauma or recent neck strain. Patient with no signs of increased intracranial pressure or weight loss and history and physical suggest more benign headache so less likely mass effect in brain from tumor or abscess or idiopathic intracranial hypertension. Pain was controlled with headache cocktail and patient discharged home with PMD follow up.\n\n            if pregnant add [] Patient is normotensive with no proteinuria, LFT abnormalities, and no anemia doubt preeclampsia, HELLP. Considered, but think unlikely, CVT given no cranial nerve deficits, blurry vision, diplopia."
+  },
+  {
+    "name": "AMS MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient presents with altered mental status, concerning for []. Labs and exam were inconsistent with toxic metabolic etiologies such as electrolyte disturbances (Na/Ca), hypoglycemia, and uremia; acidosis states, infection (i.e. Sepsis). History and exam make toxidromes of intoxication or withdrawal, hypoxemia or hypercarbia, liver disease or failure causing hepatic encephalopathy, endocrine emergencies (hyper/hypothyroidism, adrenal insufficiency), seizure, trauma, intracranial bleeds or ischemic stroke less likely[]."
+  },
+  {
+    "name": "Weakness MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient presents with generalized weakness and fatigue likely secondary to dehydration. Suspect acute kidney injury of prerenal origin. Doubt intrinsic renal dysfunction or obstructive nephropathy. Considered alternate etiologies of the patient’s symptoms including infectious processes, severe metabolic derangements or electrolyte abnormalities, ischemia/ACS, heart failure, and intracranial/central processes but think these are unlikely given the history and physical exam.\nRespiratory"
+  },
+  {
+    "name": "SOB MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient presents with dyspnea, most likely secondary to []. Presentation not consistent with acute cardiac etiologies to include ACS (non ischemic ekg, unremarkable trop), CHF, pericardial effusion / tamponade . Presentation not consistent with acute respiratory etiologies to include acute PE (Wells low risk), pneumothorax , asthma,"
+  },
+  {
+    "name": "COPD exacerbation",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": ", allergic etiologies, or infectious etiologies such as PNA. Presentation also not consistent with non-cardiopulmonary causes to include toxidromes, metabolic etiologies such as acidemia or electrolyte derangements, sepsis, neurologic causes (i.e. demyelinating diseases)."
+  },
+  {
+    "name": "COPD exacerbation",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient presents with symptoms most consistent with an acute"
+  },
+  {
+    "name": "COPD exacerbation",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": ". These constellation of symptoms are similar to prior exacerbations. The likely precipitant is acute respiratory infection[] weather change or air quality [] recent beta-blocker or opiate use[]. Low suspicion for alternate etiologies such as pneumothorax, acute PE, pneumonia. Presentation not consistent with other acute cardiopulmonary causes including ACS, CHF. Patient given ipratropium, albuterol, solumedrol here with improvement of symptoms. And will be sent home with steroid burst and azithromycin."
+  },
+  {
+    "name": "Cough MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient presents with acute cough, most consistent with []. Presentation not consistent with acute bacterial pneumonia, influenza, asthma, transient airway hyperresponsiveness. Presentation not consistent with chronic causes of cough (including GERD, asthma, postnasal discharge, medication side effect, CHF, lung cancer or mass)."
+  },
+  {
+    "name": "URI MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient presents with symptoms suspicious for likely viral upper respiratory infection. Based on history and physical doubt sinusitis. COVID test was sent off and pending. Do not suspect underlying cardiopulmonary process. I considered, but think unlikely, dangerous causes of this patient’s symptoms to include ACS, CHF or"
+  },
+  {
+    "name": "COPD exacerbation",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "s, pneumonia, pneumothorax. Patient is nontoxic appearing and not in need of emergent medical intervention. Patient told to self isolate at home until symptoms subside for 72 hours, and that they will call with the COVID results.\nSkin and soft tissue"
+  },
+  {
+    "name": "Skin infection MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient presents with initial presentation of local erythema, warmth, swelling concerning for cellulitis. Sensitivity/pain to light touch around the erythematous area. No lymphangitic spread visible and no fluid pockets or fluctuance concerning for abscess noted. Low concern for osteomyelitis or DVT. No immune compromise, bullae, pain out of proportion, or rapid progression concerning for necrotizing fasciitis. Patient to be discharged home with keflex with follow up with their PMD."
+  },
+  {
+    "name": "Abscess MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient presents with a painful fluid pocket with fluctuance and surrounding induration and erythema, concerning for an abscess of []. The abscess was anesthetized with lidocaine and then I&D was performed with deloculation and purulence was expressed. There is no lymphangitic spread visible. Low concern for osteomyelitis. Patient is not immunocompromised, and there is no bullae, pain out of proportion, or rapid progression concerning for necrotizing fasciitis. Patient to be discharged home with bactrim and keflex with follow up with their PMD."
+  },
+  {
+    "name": "Diabetic Foot infection - admit MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Presentation most consistent with diabetic foot infection. Given History, Exam, and Workup can not rule out underlying osteomyelitis[], however have low suspicion for Necrotizing Fasciitis, Abscess, DVT. Patient with no signs of sepsis. Patient given empiric vanc, cipro, flagyl[]."
+  },
+  {
+    "name": "Rash MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient who presents with rash for [], consistent with []. History and exam findings not consistent with dangerous etiologies of rash such as SJS/TEN, or secondary dangerous causes such as petechial rashes from thrombocytopenia or rickettsial infections. Rash does not appear urticarial with no signs of anaphylaxis either. Plan at this time is to treat symptomatically, instruct to follow up with PCP or derm PRN."
+  },
+  {
+    "name": "Allergic rash MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient presents with symptoms consistent with acute hypersensitivity reaction, likely acute allergic reaction. Presentation not consistent with acute anaphylaxis (lack of pulmonary, dermatologic, cardiovascular or GI symptoms, lack of hypotension or exposure to known allergen), angioedema, serum sickness (no recent drug exposure, lacks fevers, arthralgias). No evidence of airway compromise or shock at this time. Patient improved with H1/H2 blockers, steroids. No need for epinephrine. Prescribed patient EpiPen Rx, and patient to keep food diary, and to follow up with PMD for allergy testing."
+  },
+  {
+    "name": "Laceration MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Wound inspected under direct bright light with good visualization. Area with linear laceration across soft tissue through adipose without exposure of muscle belly or tendon[]. No overt foreign body. Area hemostatic. Neurovascular exam congruent with above. Area extensively irrigated with sterile normal saline under pressure. Laceration repaired in simple fashion as below (please see procedure note for further details)[]. Patient tolerated procedure well and neurovascular exam intact and unchanged post repair with intact distal pulses and cap refill[]. Cautious return precautions discussed w/ full understanding. Wound care discussed. Prompt follow up with primary care physician discussed and return for suture removal in [] days.\nBack Pain"
+  },
+  {
+    "name": "Upper back pain MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient presents with back pain most consistent with musculoskeletal spasm/strain. No back pain red flags on history or physical. Presentation not consistent with malignancy (lack of history of malignancy, lack of B symptoms), fracture (no trauma, no bony tenderness to palpation), transverse myelitis, (no sensory loss, no distal weakness), thoracic aortic dissection (equal peripheral pulses, no tachycardia, story does not fit), pneumonia (afebrile, no infectious symptoms), pulmonary embolism (Well’s low risk), osteomyelitis or epidural abscess (no IVDU, vertebral tenderness). Given the clinical picture, no indication for imaging at this time."
+  },
+  {
+    "name": "Lower back pain MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient presents with back pain most consistent with []. Differential diagnoses includes lumbago versus musculoskeletal spasm / strain versus sciatica. Less likely sciatica as straight leg raise test was negative. No back pain red flags on history or physical. Presentation not consistent with malignancy (lack of history of malignancy, lack of B symptoms), fracture (no trauma, no bony tenderness to palpation), cauda equina (no bowel or urinary incontinence/retention, no saddle anesthesia, no distal weakness), AAA, viscus perforation, osteomyelitis or epidural abscess (no IVDU, vertebral tenderness), renal colic, pyelonephritis (afebrile, no CVAT, no urinary symptoms). Given the clinical picture, no indication for imaging at this time.\nOrtho"
+  },
+  {
+    "name": "Fracture MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "The Pt was found to have a closed [] fracture on XR. The Pt is otherwise well appearing, hemodynamically stable, and shows no evidence of neurovascular injury or compartment syndrome. Patient was placed in [] by ortho [] and will follow up with ortho[] PMD for ortho referal[].\n\nThe Pt presents with an acute open [] fracture after []. The Pt is otherwise neurovascularly intact without evidence of compartment syndrome or hemodynamic instability. Patient received empiric Ancef and orthopedics was consulted who reduced the fracture under conscious sedation and placed in splint with plan to admit patient for likely orthopedic operation."
+  },
+  {
+    "name": "Dislocation MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "The Pt presents with acute [] pain after [] with evidence of [] dislocation on XR. The Pt is otherwise well appearing without concurrent Fx, overt ligamentous tear, neurovascular injury, or compartment syndrome. [] was reduced at bedside with conscious sedation[] and post reduction Xray shows successful reduction. Patient pain was controlled and patient discharged with ortho follow up."
+  },
+  {
+    "name": "Joint pain MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Patient presents with [] joint pain. Given history, exam and workup patient likely has arthritis. I have low suspicion for fracture, dislocation, significant ligamentous injury, septic arthritis, gout flare, new autoimmune arthropathy, or gonococcal arthropathy.\nTrauma"
+  },
+  {
+    "name": "Blunt Trauma-no serious injury MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Given work up, exam, and history low suspicion for intracranial hemorrhage or trauma, carotid or vertebral artery dissection, intrathoracic trauma (pulmonary contusion, blunt cardiac trauma, pneumothorax, hemothorax, cardiac tamponade, rib fractures), intra abdominal trauma (no liver, spleen, or renal lacerations, doubt hollow viscus injury given soft abdomen on repeat exams, no free air seen, consistently normotensive), extremity fracture, extremity dislocation, compartment syndrome."
+  },
+  {
+    "name": "MVA Discharge MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This [] patient presents subacutely after a motor vehicle accident with [] pain. Normal appearing without any signs or symptoms of serious injury on secondary trauma survey. Low suspicion for ICH or other intracranial traumatic injury. No seatbelt signs or abdominal ecchymosis to indicate concern for serious trauma to the thorax or abdomen. Pelvis without evidence of injury and patient is neurologically intact. Explained to patient that they will likely be sore for the coming days and can use tylenol/ibuprofen to control the pain, patient given return precautions."
+  },
+  {
+    "name": "Extremity Penetrating Trauma MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Given history, exam, and workup, low suspicion for emergent neurovascular or orthopedic complications of gunshot wound to extremity such as compartment syndrome, large vascular injury, hemorrhagic shock, penetrating nerve injury, fracture. No evidence of intraabdominal or intrathoracic involvement of GSW.\nGenitourinary"
+  },
+  {
+    "name": "Urinary Retention Male MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Patient presents with urinary retention for [] days. Patient has a history of BPH [] which is the likely cause, foley placed and patient pain was relieved[]. Considered other etiologies but given history, exam and workup have low suspicion for cauda equina, infectious etiology (pyelonephritis or cystitis), constipation induced retention, intraabdominal mass, trauma, nephrolithiasis, urolithiasis, drug reaction. Urology was consulted[] and patient will follow up with them for trial of void. Patient prescribed flomax[]."
+  },
+  {
+    "name": "Flank Pain MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Patient presents with flank pain likely secondary to renal colic from likely non-obstructed non infected kidney stone. Given history, exam, and work up I have low suspicion for atypical appendicitis, genital torsion, acute cholecystitis, AAA, infected obstructed stone, pyelonephritis, or other emergent intraabdominal pathology. Symptoms and UA indicate no infection. BMP witohut evidence of AKI. Pain treated in ED with []. Patient appropriate for discharge with outpatient follow-up and [] for pain."
+  },
+  {
+    "name": "Infected Obstructed kidney stone",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Patient presents with flank pain and is found to have a kidney stone that is obstructed with signs of infection concerning for infected obstructed kidney stone so Urology was consulted and patient to be taken to OR with urology for stent placement to relieve obstruction. Patient given fluids and ceftriaxone. Considered and doubt other acute emergent abdominal pathology (appendicitis, biliary pathology, diverticulitis, AAA, genital torsion)."
+  },
+  {
+    "name": "Pyelonephritis",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Patient presenting with flank/back pain and fever. Differential included UTI, pyelonephritis, diverticulitis, nephrolithiasis, appendicitis, cholangitis[]. Also considered but less likely given history and physical exam included constipation, bowel perforation, gastritis, pancreatitis, mesenteric ischemia, genital torsion[]. Patient febrile and given tylenol and normal saline bolus[]. Given ceftriaxone and prescribed cefdinir/keflex[]. Follow up with PMD this week. Return precautions given."
+  },
+  {
+    "name": "UTI Female nonpregnant MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient presents with symptoms consistent with acute uncomplicated cystitis. No systemic symptoms. Not septic. Well appearing. Low suspicion for acute pyelonephritis given lack of fever, CVAT, or systemic features. Low suspicion for kidney stone or infected stone. Upreg negative so doubt ectopic pregnancy[]. Low suspicion for ovarian torsion, PID, or appendicitis."
+  },
+  {
+    "name": "STD MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient presents with dysuria[]; vaginal discharge[]; penile discharge[] and a history consistent with possible STI. Differential includes simple cystitis, pyelonephritis, epididymitis[]. Based on history and physical no signs of PID[] epididymitis or orchitis[], or pyelonephritis at this time[]. Will send UA and empirically treat for gonorrhea/chlamydia with IM CTX and PO doxycycline.\nDizziness"
+  },
+  {
+    "name": "Dizziness - low risk peripheral vertigo MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient presents with dizziness, most consistent with a peripheral cause, likely BPPV. No history of recent infection so doubt vestibular neuritis. History not consistent with meniere's disease. No history of trauma. No red flag features for central vertigo to include gradual onset, vertical/bidirectional or non-fatigable nystagmus, focal neurologic findings on exam (including inability to ambulate, ataxia, dysmetria). Presentation not consistent with an acute CNS infection, vertebral basilar artery insufficiency, cerebellar hemorrhage or infarction, intracranial mass or bleed."
+  },
+  {
+    "name": "Dizziness- high risk central vertigo MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Patient with persistent vertigo that is not fatigable with no obvious trigger which is concerning for central etiology of either posterior circulation stroke vs intracranial mass vs intracranial hemorrhage vs vertebral basilar artery insufficiency. CT head and CTA head and neck ordered and shows []. Neurology consulted and MRI ordered which shows [].\nVaginal Bleeding"
+  },
+  {
+    "name": "Vaginal Bleeding non pregnant MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Patient presents with vaginal bleeding likely secondary to fibroids or other non-emergent cause of abnormal uterine bleeding such as anovulatory cycle. Based on History, Exam, and ED Workup patient’s presentation not consistent with ectopic pregnancy, molar pregnancy, life-threatening coagulopathy, trauma, serious bacterial infection. Patient given provera taper[], OCPs[] and will follow up with OBGYN."
+  },
+  {
+    "name": "Vaginal bleeding pregnant MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This pregnant patient presents with vaginal bleeding in the first trimester. Differential includes ectopic, IUP, threatened/inevitable abortion, along with completed abortion. Patient without a history of coagulopathy or infectious symptoms. Doubt alternate acute emergent pathology. Patient is Rho + so Rho gam is not indicated[], Rho - so Rho gam was given[]. Patient with TVUS that showed []."
+  },
+  {
+    "name": "Symptomatic Anemia MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Patient presents for symptomatic anemia secondary to []. Patient with known cause of bleeding and follow up scheduled. Given [] units of blood with resolution of symptoms afterwards. Patient had no reaction to blood transfusion. Patient feels well on discharge with plan to follow up with PMD.\n\n\nVital sign abnormalities"
+  },
+  {
+    "name": "Tachycardia-discharge MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient presented with tachycardia with no apparent emergent cause. Patient is afebrile with no infectious symptoms, no signs of hyperthyroidism in the history and TSH pending[], considered PE but less likely (no chest pain, sob, DVT risk factors, leg swelling, and satting well), doubt ACS (no chest pain, non STEMI ekg, and neg trop[]), no anemia on CBC, patient denies any drug/alcohol intoxication or withdrawal, patient euvolemic on exam and does not appear dry so doubt orthostatic changes."
+  },
+  {
+    "name": "Bradycardia - dicharge MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "The patient is suffering from bradycardia without concerning signs of instability on exam such as altered mental status, hypotension, evidence of cardiac end organ dysfunction, or acute heart failure. Possible causes include sick sinus syndrome, vasovagal. Considered but low risk for any emergent causes including unstable heart block (ekg with no signs of Mobitz II, complete heart block), right coronary artery myocardial infarction (neg trop[], non STEMI, no chest pain), infection (afebrile, no leukocytosis, no recent illness), hypothyroidism, hyperkalemia, hypoglycemia, dehydration, or intoxication (beta blockade, calcium channel blockade, clonidine, digoxin, opiates, alcohol or other)."
+  },
+  {
+    "name": "Asymptomatic HTN",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Patient presents to the emergency department complaining of high blood pressure. Patient is otherwise asymptomatic without confusion, chest pain, dysuria, vision changes, focal neurological deficit or SOB. Patient is hypertensive here. Patient has not been taking their HTN medication []. Doubt hypertenstive emergency, patient with no signs of AMS, pulmonary edema, heart failure, ACS, PRESS syndrome, intracranial hemorrhage, renal infarction or failure or other end organ damage. Plan to discharge patient home with PMD follow up.\nEye"
+  },
+  {
+    "name": "Corneal Abrasion MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "The Pt presents with [] likely due to a corneal abrasion seen on fluorescein staining of eye. The Pt is otherwise well-appearing without evidence of retained foreign body, corneal ulcer[], globe rupture, or superimposed infection. Prescribed antibiotics and instructed the Pt to follow up closely with ophthalmology and avoid wearing contacts[]."
+  },
+  {
+    "name": "Eye redness benign MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Patient presents with Scleral injection. No recent eye trauma or suspected microtrauma (dust, sand, etc). Negative Seidel sign, no sign of corneal abrasion/ulcer. No history of discharge so less likely bacterial or viral conjunctivitis. No significant photophobia. IOP is [] so doubt acute angle closure glaucoma. Given history and exam I have low suspicion for globe rupture, uveitis, HSV keratitis, Endopthalmitist, Foreign Body. Patient likely has allergic conjunctivitis and was prescribed []."
+  },
+  {
+    "name": "Subconjunctival hemorrhage MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Presentation consistent with subconjunctival hemorrhage. Given history and exam I have low suspicion for corneal abrasion or ulcer, globe rupture, uveitis, HSV keratitis, Endopthalmitis, Retinal Detachment, Angle Closure Glaucoma, Foreign Body, hyphema."
+  },
+  {
+    "name": "Swollen Eye MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "[]-year-old patient presenting with swollen eye. Otherwise well-appearing.No history of trauma. No urticarial rash to suggest allergic reaction. No airway swelling, wheezing, vomiting/diarrhea, or tachycardia/hypotension to suggest anaphylaxis. No proptosis, vision change, or pain with EOM to suggest orbital cellulitis. Ddx includes allergic reaction vs. preseptal cellulitis. Will treat empirically with antibiotics and antihistamines. Discussed need for outpatient follow-up and return precautions for signs/symptoms of orbital cellulitis or anaphylaxis."
+  },
+  {
+    "name": "Vision loss painless MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Given history of flashers and floaters with acute visual acuity loss and ocular ultrasound findings, presentation is concerning for Retinal Detachment vs Vitreous Hemorrhage vs Posterior Vitreous Detachment. Given vision loss is painless I have low suspicion for normally painful syndromes such as Corneal Abrasion/Ulcer, Complex Migraine, Globe Rupture, Acute Angle Glaucoma, Uveitis, Endopthalmitis, Iritis. Additionally, given presentation I have low suspicion for other painless syndromes such as Amaurosis Fugax, CRAO, CRVO, or Stroke.\n\nGiven history of painless vision loss and exam with afferent pupillary defect and significantly reduced visual acuity presentation is concerning for CRAO vs CRVO. Vision is unilateral with no other focal neuro deficits so doubt stroke, patient exam and history make retinal detachment, vitreous hemorrhage, posterior vitreous detachment lower on differential. Given painless vision loss low suspicion for normally painful syndromes such as corneal abrasion/ulcer, complex migraine, globe rupture, acute angle closure glaucoma, optic neuritis, temporal arteritis, uveitis, endophthalmitis, iritis."
+  },
+  {
+    "name": "Painful vision loss nontraumatic MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Patient presents with nontraumatic painful, unilateral vision loss for which the initial differential is optic neuritis, temporal arteritis, acute angle closure glaucoma, endophthalmitis, and uveitis. Given patient had increased IOP and concerning ocular exam likely cause is acute angle closure glaucoma. No foreign body sensation or FB on exam so doubt corneal abrasion/ulcer. No recent eye trauma or suspected microtrauma with no signs of inflammation or injection with no significant photophobia so doubt globe rupture, uveitis, endophthalmitis. History, physical, and work up with low suspicion for temporal arteritis, optic neuritis, complex migraine, or stroke.\n\nPatient presents with nontraumatic painful, unilateral vision loss for which the initial differential is optic neuritis, temporal arteritis, acute angle closure glaucoma, endophthalmitis, and uveitis. Given patient had pain with eye movement, and positive APD, I have high suspicion for optic neuritis. Normal IOP so doubt acute angle closure glaucoma. No foreign body sensation or FB on exam so doubt corneal abrasion/ulcer. No recent eye trauma or suspected microtrauma with no signs of inflammation or injection with no significant photophobia so doubt globe rupture, uveitis, endophthalmitis. History, physical, and work up with low suspicion for temporal arteritis, complex migraine, or stroke.\nOral"
+  },
+  {
+    "name": "Sore throat MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "No history of immunocompromise. Nontoxic appearance. Patient euvolemic with no trismus. No airway compromise. No change in voice, exudates, enlarged lymph nodes. Able to tolerate PO. Given History and Exam I have low suspicion for this presentation being caused by PTA, RPA, Ludwigs angina, Epiglottitis or Bacterial Tracheitis, EBV, acute HIV, or Strep throat."
+  },
+  {
+    "name": "PTA discharged MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Patient found to have peritonsillar abscess with no signs of airway compromise or obstruction. Patient is able to tolerate secretions. Peritonsillar abscess was drained with 18 gauge needle after anesthesia by bupivacaine with no complications[], patient feeling better[]. Given that the patient is not immunocompromised, able to tolerate PO, nontoxic appearing, and no signs of trismus or airway compromise, plan to discharge the patient home with augmentin[]. Considered and doubt RPA, ludwings, epiglottitis, EBV, or acute HIV."
+  },
+  {
+    "name": "Dental Pain MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Patient presents for dental pain due to suspected dental cary. Patient not immunosuppressed, afebrile and well appearing with patent airway, have low suspicfion for deep space infection or any concern for airway compromise. Based on history, physical, and work up. No evidence of tooth fracture, avulsion, or bleeding socket. No evidence of RPA, PTA, Ludwig’s angina, periapical abscess. Offered patient dental nerve block for pain which patient accepted/declined[]. Instructed patient to continue to treat pain with ibuprofen/acetaminophen until they see a dentist. Defer ABX for dental pain alone with no overt evidence of infection[]. Patient discharged home and will follow up with dentist. Discussed return precautions for odontogenic infections and other dental pain emergencies. Will provide dental clinic list[].\nEar"
+  },
+  {
+    "name": "Acute Otitis media MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Exam and history most consistent with AOM. I have a low suspicion at this time for mastoiditis, malignant otitis externa, herpes or ramsey hunt syndrome, or retained foreign body. Will give wait and see prescription for amoxicillin. If symptoms worsen or persist for 48-72 then pt to fill the prescription[]. Cautious return precautions discussed w/ full understanding."
+  },
+  {
+    "name": "Otitis Externa MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Exam and history are most consistent with Otitis Externa. No diabetes or immunosuppression. Low suspicion for mastoiditis, malignant otitis externa, AOM, herpes zoster oticus. No perforated tympanic membrane, discharged with Ciprodex[] and patient to follow up with PMD in 1 to 2 days.\nNose"
+  },
+  {
+    "name": "Epistaxis",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Simple discharge This [] patient presents with likely anterior epistaxis, which appears to have resolved. There are no risk factors for bleeding disorders and the patient is hemodynamically stable. No evidence of anemia. Patient discharged with nasal gel.\n\nIntervention needed This [] patient on anticoagulant []not on anticoagulant presents with active epistaxis. The patient is hemodynamically stable without evidence of symptomatic anemia. Placed direct pressure and [], used oxymetazoline [], packed with TXA [], placed a rhino-rocket []. Could not control bleeding despite all measures above so ENT consulted [].\nHyper/hypoglycemia"
+  },
+  {
+    "name": "Hyperglycemia MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient presenting with apparent acute hyperglycemia. Considered DKA versus HHS, sepsis as possible etiologies of the patient’s current presentation. However, given the current history & physical, including current lab values, the current presentation is consistent with acute, asymptomatic hyperglycemia with no signs of DKA or HHS. Patient non toxic appearing with no signs of infection or ischemia. Patient advised to follow up with PMD for better blood sugar control."
+  },
+  {
+    "name": "DKA MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient presents with hyperglycemia and symptoms concerning for DKA. Differential diagnosis includes other metabolic causes of hyperglycemia such as HHS, worsened diabetes or medication noncompliance. Considered possible causes of DKA to include infection (intrabdominal infection, UTI, pneumonia), infarction / ischemia (acute coronary syndrome, cerebral vascular accident, pulmonary embolism), medication non-compliance with insulin therapy, illicit substance abuse, iatrogenic (including prescription medications and drug-drug interactions), idiopathic causes. Most likely etiology at this time is []. Patient given fluids and started on insulin drip, admitted to MICU []."
+  },
+  {
+    "name": "Hypoglycemia MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient presents with symptoms and labs consistent with acute hypoglycemia, most likely due to []. Considered other etiologies of acute hypoglycemia to include drugs (anti-hyperglycemics, alcohol, beta blockers, ACE-I, APAP) or drug related error (missed meal, incorrect dosing, intentional overdose), systemic illness (sepsis, acute coronary syndrome, renal / hepatic failure, adrenal insufficiency), malignancy, or post-op complications such as Gastric bypass. Presentation not consistent with other acute emergencies related to hypoglycemia.\nRenal failure / electrolyte abnormalities"
+  },
+  {
+    "name": "Renal failure MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Patient presents with renal failure with uncertain cause but likely due to longstanding DM/HTN[]. Patient not taking any nephrotoxic medications[]. UA was remarkable for []. Renal ultrasound ordered[], urine lytes sent off[]. There is no indication for emergent dialysis as patient is mentating normally with normal electrolytes and no hypoxemia from pulmonary edema. Patient admitted to medicine for further work up and possible initiation of hemodialysis."
+  },
+  {
+    "name": "AVF hemorrhage MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Patient presented with bleeding over their fistula site which was controlled with []. This patient’s fistula did not display overt characteristics of Infection, Aneurysm, Vascular Insufficiency, Outflow/Inflow Obstruction or other emergent problem."
+  },
+  {
+    "name": "Hyperkalemia MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Asymptomatic no ekg changes\n\nPatient found to have asymptomatic hyperkalemia with no ecg changes likely secondary to ESRD[]. Patient not taking ACE-I, ARBs, SGLT2 inhibitor, digoxin, no recent burns or trauma to explain hyperkalemia. Doubt drug induced, unlikely secondary to crush or thermal injury. Given CBC and BMP results doubt DKA or tumor lysis syndrome. Patient given temperazing measures of insulin, as well as lasix and lokelma[] to reduce potassium level. Patient has ESRD and spoke with nephrology with plan for emergent dialysis [].\n\nSymptomatic, ekg changes\n\nPatient found to have symptomatic hyperkalemia with ecg changes likely secondary to ESRD[]. Patient not taking ACE-I, ARBs, SGLT2 inhibitor, digoxin, no recent burns or trauma to explain hyperkalemia, doubt drug induced, unlikely secondary to crush or thermal injury. Given CBC and BMP results doubt DKA or tumor lysis syndrome. Patient given temperazing measures of calcium gluconate, bicarb, insulin, as well as lasix and lokelma[] to reduce potassium level. Patient has ESRD and spoke with nephrology with plan for emergent dialysis []."
+  },
+  {
+    "name": "Hyponatremia MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Patient found to be hyponatremic to [] Patient mentating normally. Patient not hypovolemic so doubt extra renal losses such as GI losses, burns, 3rd spacing, or diuretic use. Labs are not consistent with adrenal insufficiency. Patient euvolemic on exam so likely cause is SIADH. Patient not hypervolemic on exam with no history of CHF, cirrhosis, nephrotic syndrome, no acute renal failure.\nPsych, Drugs, Alcohol"
+  },
+  {
+    "name": "Psych MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient presents with symptoms consistent with an underlying psychiatric disorder, most likely []. Presentation not consistent with acute organic causes to include delirium, dementia or drug induced disorders (acute ingestions or withdrawal; no evidence of toxidrome). Given the H&P, I suspect this patient is suicidal/homicidal/gravely disabled[] and patient was placed on 5150. Psychiatry was consulted and continued patient’s hold. Patient was medically cleared and transferred to psychiatric care."
+  },
+  {
+    "name": "Panic attack/anxiety MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient presents with symptoms consistent with acute anxiety reaction / panic attack. Low suspicion for acute cardiopulmonary process including ACS, PE, or thoracic aortic dissection. Denies any ingestions or any other medical complaints. No evidence of alcohol withdrawal symptoms. Given history and physical presentation not consistent with overt toxidrome, ingestion. Presentation not consistent with a medical emergency at this time. No acute indication for psychiatric consultation (without SI/HI, AH/VH). Cautious return precautions discussed with full understanding."
+  },
+  {
+    "name": "Drug intoxication MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Patient presents with agitation, diaphoresis, mydriasis, and tachycardia concerning for sympathomimetic toxicity. Patient maintained their airway. Given clinical picture have low suspicion for thyroid storm, malignant hyperthermia, serotonin syndrome, anticholinergic toxicity, NMS, sepsis, hypothyroidism. Symptoms treated with ativan. Patient denies suicidal intention or coingestion. Patient offered transferred to rehab facility but declined. Patient observed until clinically sober.\n\nPatient presents with AMS, pinpoint pupils, decreased respiratory drive concerning for opioid ingestion, patient responded well to narcan. Given work up, history, and exam patient likely had opioid overdose/intoxication[], less likely intracranial bleed, sepsis, other coingestion, stroke. Patient denies suicidal intention or coingestion. Patient offered transferred to rehab facility but declined. Patient observed for [] and was clinically sober at time of discharge. Safe ride home was arranged with []. Patient discharged with prescription for narcan."
+  },
+  {
+    "name": "Alcohol intoxication MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Patient presents with altered mental status likely secondary to EtOH intoxication. Patient maintained his airway, and metabolized to sobriety and no longer altered. Patient with no head trauma to suggest intracranial hemorrhage, no overt signs of opioid intoxication or coingestion. No infectious symptoms and afebrile so doubt sepsis. Exam prior to discharge shows no evidence of Wernicke's encephalopathy. Patient with no signs of any medical emergencies at this time. Patient observed for until clinically sober. No signs or symptoms of alcohol withdrawal while in the emergency department. Safe ride home was arranged with []. Patient offered transferred to rehab facility but declined."
+  },
+  {
+    "name": "Alcohol withdrawal MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "Patient presents in alcohol withdrawal last drink was [] ago. Patient tachycardic with tremors and tongue fasciculations. Patient denies any tactile, auditor or visual hallucinations, AAOx3[]. Patient denies any history of withdrawal seizures, ICU admissions, or delirium tremens in past[].\n\n            Patient treated with benzos here and alcohol withdrawal resolved on time of discharge, patient plans to continue drinking[]/ patient plans to start rehab at inpatient facility[].\n            Patient was persistently in withdrawal despite multiple repeated doses of benzos, plan to admit patient for alcohol withdrawal.[]\n            Patient devolved and had withdrawal seizure/delirium tremens/alcoholic hallucinosis plan to admit patient to to ICU.[]\n\nSickle Cell"
+  },
+  {
+    "name": "Sickle Cell - pain crisis MDM",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient with known sickle cell disease presents with their classic pain syndrome for a vaso-occlusive crisis. Considered acute chest, stroke, splenic sequestration, and other emergent complications of sickle cell disease. Considered alternate etiologies of this patient’s pain to include fracture, MSK pain, infection/abscess, and other ischemic etiologies (stroke, MI) but doubt these are likely. Patient treated with opioids which controlled their pain and they were discharged []. Despite multiple rounds of opioids patients pain was not controlled, so patient was admitted for pain control."
+  },
+  {
+    "name": "Sickle cell - acute chest syndrome",
+    "tags": [
+      "mdm",
+      "general"
+    ],
+    "group": "mdm sample documentation",
+    "note": "This patient with known SCD presents with chest/back pain with constellation of symptoms and findings concerning for acute chest syndrome; this presentation is different than the patient’s typical pain crisis. Considered alternate etiologies of chest pain including acute coronary syndromes, PE, pneumothorax or pneumonia but think this is less likely. Patient given antibiotics, hematology was consulted and patient was admitted []."
+  }
+]

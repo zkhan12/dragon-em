@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Abdominal exam Improved",
+    "tags": [
+      "reexamination",
+      "general"
+    ],
+    "group": "reexamination sample documentation",
+    "note": "Reexamination Before Discharge\n    Before discharge abdominal reexam shows a soft abdomen, nontender, nondistended. Patient feels much better and can tolerate POs. Patient is aware of and understands precautions, as well as need to follow up."
+  },
+  {
+    "name": "Abdominal exam Resolved",
+    "tags": [
+      "reexamination",
+      "general"
+    ],
+    "group": "reexamination sample documentation",
+    "note": "Reexamination Before Discharge\n    Before discharge abdominal reexam shows a soft abdomen, nontender, nondistended. Patient feels much better with full resolutions of symptoms and would like to go home. Patient can tolerate POs and, after a long discussion, is aware of and understands precautions as well as need to follow up."
+  },
+  {
+    "name": "Admit improved",
+    "tags": [
+      "reexamination",
+      "general"
+    ],
+    "group": "reexamination sample documentation",
+    "note": "Reexamination Before Admission\n    Patient had significant improvement with symptoms/vitals. Improving with treatment."
+  },
+  {
+    "name": "ETOH discharge",
+    "tags": [
+      "reexamination",
+      "general"
+    ],
+    "group": "reexamination sample documentation",
+    "note": "Reexamination Before Discharge\n    Before discharge patient was feeling much better with resolution of symptoms, and would like to go home. Tolerating POs. Has a steady gait and non-slurred speech. No tremor. Patient acknowledges that will not drive, operate heavy machinery, etc. while intoxicated. Has a reasonable plan for self care. No SI/HI."
+  },
+  {
+    "name": "General discharge improved",
+    "tags": [
+      "reexamination",
+      "general"
+    ],
+    "group": "reexamination sample documentation",
+    "note": "Reexamination Before Discharge\n    Before discharge patient was feeling much better with improving of symptoms, and would like to go home. Tolerating POs."
+  },
+  {
+    "name": "General resolved",
+    "tags": [
+      "reexamination",
+      "general"
+    ],
+    "group": "reexamination sample documentation",
+    "note": "Reexamination Before Discharge\n    Before discharge patient was feeling much better with full resolutions of symptoms, and would like to go home. Tolerating POs."
+  },
+  {
+    "name": "Reexam trauma",
+    "tags": [
+      "reexamination",
+      "general"
+    ],
+    "group": "reexamination sample documentation",
+    "note": "Reexamination Before Discharge\n    A full tertiary reexam showed patient to be feeling much better with improvement of symptoms. No additional injuries were noted and patient no change in neurologic and vascular function. Compartments are soft."
+  },
+  {
+    "name": "Reexam wheeze",
+    "tags": [
+      "reexamination",
+      "general"
+    ],
+    "group": "reexamination sample documentation",
+    "note": "Reexamination Before Discharge\n    Before discharge patient had clear lung sounds bilaterally without evidence of respiratory distress, and feels much better. Would not like any further treatments and would like to go home."
+  }
+]

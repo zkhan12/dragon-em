@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Abdominal pain in adult female",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "Given the large differential diagnosis for @NAME@, the decision making in this case is of high complexity.\n\nAfter evaluating all of the data points in this case, the presentation of @NAME@ is NOT consistent with AAA; Mesenteric Ischemia; Bowel Perforation; Bowel Obstruction; Sigmoid Volvulus; Diverticulitis; Appendicitis; Peritonitis; Cholecystitis, ascending cholangitis or other gallbladder disease; perforated ulcer; significant GI bleeding, splenic rupture/infarction; Hepatic abscess; or other surgical/acute abdomen.\n\nSimilarly, this presentation is NOT consistent with ACS or Myocardial Ischemia or cardiac etiology; Pulmonary Embolism; fistula; incarcerated hernia; Pancreatitis, Aortic Dissection; Diabetic Ketoacidosis; Kidney Stone; Ischemic colitis; Psoas or other abscess; Methanol poisoning; Heavy metal toxicity; or porphyria.\n\nSimilarly, this case is NOT consistent with Fitz-Hugh-Curtis Syndrome, Ectopic Pregnancy, Placental Abruption, PID, Tubo-ovarian abscess, Ovarian Torsion, or STI.\n\nSimilarly, this presentation is NOT consistent with acute coronary syndrome, pulmonary embolism, dissection, borhaave's, arrythmia, pneumothorax, cardiac tamponade, or other emergent cardiopulmonary condition.\n\nSimilarly, this presentation is NOT consistent with sepsis, pyelonephritis, urinary infection, pneumonia, or other focal bacterial infection.\n\nStrict return and follow-up precautions have been given by me personally to the patient/family/caregiver(s).\n\nData Reviewed/Counseling: I have reviewed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "Abdominal pain adult male",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "Given the large differential diagnosis for @NAME@, the decision making in this case is of high complexity.\n\nAfter evaluating all of the data points in this case, the presentation of @NAME@ is NOT consistent with AAA; Mesenteric Ischemia; Bowel Perforation; Bowel Obstruction; Sigmoid Volvulus; Diverticulitis; Appendicitis; Peritonitis; Cholecystitis, ascending cholangitis or other gallbladder disease; perforated ulcer; significant GI bleeding, splenic rupture/infarction; Hepatic abscess; GI bleeding, or other surgical/acute abdomen.\n\nSimilarly, this presentation is NOT consistent with ACS or Myocardial Ischemia; Pulmonary Embolism; fistula; incarcerated hernia; Pancreatitis, Aortic Dissection; Diabetic Ketoacidosis; Kidney Stone; Ischemic colitis; Psoas or other abscess; Methanol poisoning; Heavy metal toxicity; or porphyria.\n\nSimilarly, this case is NOT consistent with testicular torsion, prostatitis, hernia, STI, or other testicular issue.\n\nSimilarly, this presentation is NOT consistent with acute coronary syndrome, pulmonary embolism, dissection, borhaave's, arrythmia, pneumothorax, cardiac tamponade, or other emergent cardiopulmonary condition.\n\nSimilarly, this presentation is NOT consistent with sepsis, pyelonephritis, urinary infection, pneumonia, or other focal bacterial infection.\n\nStrict return and follow-up precautions have been given by me personally to the patient/family/caregiver(s).\n\nData Reviewed/Counseling: I have reviewed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "Abdominal pain peds female",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "Given the large differential diagnosis for @NAME@, the decision making in this case is of high complexity.\n\nAfter evaluating all of the data points in this case, the presentation of @NAME@ is NOT consistent with intussception; bowel perforation/obstruction; volvulus; appendicitis; peritonitis; cholecystitis, ascending cholangitis or other gallbladder disease; significant GI bleeding, splenic rupture/infarction; hepatic abscess; or other surgical/acute abdomen.\n\nSimilarly, this presentation is NOT consistent with incarcerated hernia; pancreatitis, DKA; kidney stone; ischemic colitis; psoas or other abscess; methanol poisoning; heavy metal toxicity; porphyria; or abuse.\n\nSimilarly, this case is NOT consistent with Fitz-Hugh-Curtis Syndrome, Ectopic Pregnancy, Placental Abruption, PID, Tubo-ovarian abscess, Ovarian Torsion, or STI.\n\nSimilarly, this presentation is NOT consistent with sepsis, pyelonephritis, urinary infection, pneumonia, otitis media, or other focal bacterial infection.\n\n@NAME@ is not currently dehydrated and is tolerating POs.\n\nStrict return and follow-up precautions have been given by me personally to the family/caregiver(s).\n\nData Reviewed/Counseling: I have reviewed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "Abdominal pain peds male",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "Given the large differential diagnosis for @NAME@, the decision making in this case is of high complexity.\n\nAfter evaluating all of the data points in this case, the presentation of @NAME@ is NOT consistent with intussception; bowel perforation/obstruction; volvulus; appendicitis; peritonitis; cholecystitis, ascending cholangitis or other gallbladder disease; significant GI bleeding, splenic rupture/infarction; hepatic abscess; or other surgical/acute abdomen.\n\nSimilarly, this presentation is NOT consistent with incarcerated hernia; pancreatitis, DKA; kidney stone; ischemic colitis; psoas or other abscess; methanol poisoning; heavy metal toxicity; porphyria; or abuse.\n\nSimilarly, this presentation is NOT consistent with sepsis, pyelonephritis, urinary infection, pneumonia, otitis media, or other focal bacterial infection.\n\n@NAME@ is not currently dehydrated and is tolerating POs.\n\nStrict return and follow-up precautions have been given by me personally to the family/caregiver(s).\n\nData Reviewed/Counseling: I have reviewed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "Abscess",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "There is no area of retained pus after procedure. The presentation of @NAME@ is NOT consistent with necrotizing fascitis or osteomyolitis. There is no evidence of retained foreign body (besides packing), or neurovascular or tendon injury. The presentation of @NAME@ is NOT consistent with sepsis and/or bacturemia. @NAME@ meets outpatient criteria for treatment and is sent home on empiric antibiotics covering the relevant bacteria.\n\nStrict return and follow-up precautions have been given by me personally to the patient/family/caregiver(s).\n\nData Reviewed/Counseling: I have reviewed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "AGE",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "@NAME@ likely has viral acute gastro-enteritis. Able to take down POs. No indication for antibiotics or further studies at this time.\n\nGiven the large differential diagnosis for @NAME@, the decision making in this case is of high complexity.\n\nAfter evaluating all of the data points in this case, the presentation of @NAME@ is NOT consistent with AAA; Mesenteric Ischemia; Bowel Perforation; Bowel Obstruction; Sigmoid Volvulus; Diverticulitis; Appendicitis; Peritonitis; Cholecystitis, ascending cholangitis or other gallbladder disease; perforated ulcer; significant GI bleeding, splenic rupture/infarction; Hepatic abscess; or other surgical/acute abdomen.\n\nSimilarly, this presentation is NOT consistent with ACS or Myocardial Ischemia or cardiac etiology; Pulmonary Embolism; fistula; incarcerated hernia; Pancreatitis, Aortic Dissection; Diabetic Ketoacidosis; Kidney Stone; Ischemic colitis; Psoas or other abscess; Methanol poisoning; Heavy metal toxicity; or porphyria.\n\nSimilarly, this case is NOT consistent with Fitz-Hugh-Curtis Syndrome, Ectopic Pregnancy, Placental Abruption, PID, Tubo-ovarian abscess, Ovarian Torsion, or STI.\n\nSimilarly, this presentation is NOT consistent with acute coronary syndrome, pulmonary embolism, dissection, borhaave's, arrythmia, pneumothorax, cardiac tamponade, or other emergent cardiopulmonary condition.\n\nSimilarly, this presentation is NOT consistent with sepsis, pyelonephritis, urinary infection, pneumonia, or other focal bacterial infection.\n\nStrict return and follow-up precautions have been given by me personally to the patient/family/caregiver(s).\n\nData Reviewed/Counseling: I have reviewed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "Asthma",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "The presentation of @NAME@ is not consistent with cardiac wheeze, congestive heart failure, pneumothorax, pulmonary emboli, or other emergent process.\n\nAdditionally, @NAME@ has no evidence of of pneumonia, sepsis, or other indication for antibiotics.\n\nUpon discharge, @NAME@ has no evidence of respiratory failure or signs of tiring, and is comfortable without respiratory distress. @NAME@ meets outpatient treatment criteria.\n\nData Reviewed/Counseling: I have reviewed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "Cellulitis",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "There is no area of currently drain-able abscess. The presentation of @NAME@ is NOT consistent with necrotizing fascitis or osteomyolitis. There is no evidence of retained foreign body, or neurovascular or tendon injury. The presentation of @NAME@ is NOT consistent with sepsis and/or bacturemia. @NAME@ meets outpatient criteria for treatment and is sent home on empiric antibiotics covering the relevant bacteria, including MRSA if applicable.\n\nStrict return and follow-up precautions have been given personally by me.\n\nData Reviewed/Counseling: I have reviewed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "Chest Pain Discharge",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "Given the large differential diagnosis for @NAME@, the decision making in this case is of high complexity.\n\nAfter evaluating all of the data points in this case, the presentation of @NAME@ is NOT consistent with Acute Coronary Syndrome (ACS) and/or myocardial ischemia, pulmonary embolism, aortic dissection; Borhaave's, significant arrythmia, pneumothorax, cardiac tamponade, or other emergent cardiopulmonary condition.\n\nFurther, the presentation of @NAME@ is NOT consistent with pericarditis, myocarditis, cholecystitis, pancreatitis, mediastinitis, endocarditis, new valvular disease.\n\nAdditionally, the presentation of @NAME@ is NOT consistent with flail chest, cardiac contusion, ARDS, or significant intra-thoracic or intra-abdominal bleeding.\n\nSimilarly, this presentation is NOT consistent with pneumonia, sepsis, or pyelonephritis.\n\nStrict return and follow-up precautions have been given by me personally to the patient/family/caregiver(s).\n\nData Reviewed/Counseling: I have reviewed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "Crying infant",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "@NAME@ has no evidence of occult UTI, corneal abrasion, hair tourniquets, insect bites, burns in mouth, otitis, physical abuse, anal fissures, intussusception, incarcerated hernias, testicular torsion, drug exposure or withdrawal, meningitis, SVT, PNA, rib fractures, ASA OD, surgical abdomen, infection, fracture or other trauma, or other emergent cause of symptoms.\n\nStrict return and follow-up precautions have been given by me personally to the patient/family/caregiver(s).\n\nData Reviewed/Counseling: I have reviewed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "Fall (peds)",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "Patient currently stable. History obtained mainly from care giver. Suspect fall from _ with _ risk of ciTBI based on PECARN recommendations* so _ imaging pursued. Doubt meningitis, basilar skull fracture, perforated TM, intracranial hemorrhage, increased intracranial pressure/impending herniation, NAT, long bone fractures, CSpine injury     1) Given patient PECARN negative, well appearing and at basline per mother, advanced imaging not pursued. Patient tolerating PO intake. Patient's caregiver given strict return 2) Given patient PECARN unapplicable but well appearing, tolerating PO intake and at baseline per mother, clinical judgement exercised and patient observed in the emergency department for _ without any worsneing signs or symptoms of TBI including LOC, AMS, nausea, vomiting or headache. 3) Given patient PECARN unapplicable but concerning _, advanced imaging pursued and CT head showed _. 4) Given patient PECARN \"positive\" with _ % risk fo ciTBI, advanced imaging pursued and CT head showed _.\n\n__ pm - Upon re-evaluation, patient is well hydrated non-toxic appearing and tolerating PO intake. There is no suspicion of immunocompromised state, their vaccines are up to date, there is no prior sserious bacterial infections with good home/social environment including a care taker who is reliable and the child has a PMD who can see them promptly for followup.\n\nVital signs stable and patient well appearing. Pain controlled in ED, discharged with _, care giver and patient instructed on strict return precautions and outpatient pain control methods. They agree with assessment and plan which was explained and repeated back with questions answered . They agree to follow up with primary doctor for further workup and management.\n\nN     Plans discussed and formulated with Attending Dr. _\n\n\n    Kuppermann N. Pediatric Emergency Care Applied Research Network (PECARN). Identification of children at very low risk of clinically-important brain injuries after head trauma: a prospective cohort study. Lancet. 2009 Oct 3;374(9696):1160-70.\n\nNOTES: 2yo > sn 100% >2yoM sn 96.8% PECARN had lower rates of TBI on head ct (5.2%) than national average Annually 600k visits for TBI with PECARN, missed viTBI <2yrs 1:5000, >2yrs 1:12000 Lethal risk of malignancy from single head CT in 1 year old is 1:1500 and 10yo is 1:5000"
+  },
+  {
+    "name": "Fever adult",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "Given the large differential diagnosis for @NAME@, the decision making in this case is of high complexity.\n\nAfter evaluating all of the data points in this case, the presentation of @NAME@ is NOT consistent with meningitis, sepsis and/or bactermia. @NAME@ is not severely dehydrated and can tolerate POs at home.\n\nFurther, the presentation of @NAME@ is NOT consistent with surgical abdomen and/or peritonitis, for example appendicitis; bowel prerforation or obstruction; volvulus; intussception; pyloric stenosis; gallbladder disease; splenic rupture/infarction; Hepatic abscess; psoas or other abscess.\n\nFurther, the presentation of @NAME@ is NOT consistent pyelonephritis, urinary infection, pneumonia, or otitis media, or other focal bacterial infection.\n\n@NAME@ is not at risk for Ebola, MERS, or other specific travel-related infection.\n\nStrict return and follow-up precautions have been given by me personally to the patient/family/caregiver(s).\n\nData Reviewed/Counseling: I have reviwed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "Fever Peds (1)",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "After evaluating all of the data points in this case, the presentation is NOT consistent with meningitis, sepsis and/or bactermia. The patient is not severely dehydrated and can tolerate POs at home.\n\nFurther, the presentation is NOT consistent with surgical abdomen and/or peritonitis, for example appendicitis; bowel perforation or obstruction; volvulus; intussception; pyloric stenosis; gallbladder disease; splenic rupture/infarction; Hepatic abscess; psoas or other abscess.\n\nSimilarly, this presentation is NOT consistent with Kawasaki's or other emergency cause of fever.\n\nFurther, the presentation is NOT consistent pyelonephritis, urinary infection, pneumonia, or otitis media, or other focal bacterial infection.\n\nStrict return and follow-up precautions have been given by me personally to parent(s)/guardian(s).\n\nData Reviewed/Counseling: I have reviewed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "Peds Fever (2)",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "Doubt meningitis, pyelonephritis, bacterial PNA, AOM, pharyngitis, rheumatologic disease, ingestion,malignancy\n\n\nUpon re-evaluation, patient is well hydrated non-toxic appearing and tolerating PO intake. There is no suspicion of immunocompromised state, their vaccines are up to date, there is no prior sserious bacterial infections with good home/social environment including a care taker who is reliable and the child has a PMD who can see them promptly for followup.     Vital signs stable and patient well appearing. Pain controlled in ED, discharged with _, care giver and patient instructed on strict return precautions and outpatient pain control methods. They agree with assessment and plan which was explained and repeated back with questions answered . They agree to follow up with primary doctor for further workup and management."
+  },
+  {
+    "name": "Fracture",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "@NAME@ has no evidence of an open fracture; dislocation; retained foreign body; nerve, tendon, or vascular injury; compartment syndrome; septic joint or other infection.\n\nData Reviewed/Counseling: I have reviewed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "Headache",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "Given the large differential diagnosis for @NAME@, the decision making in this case is of high complexity.\n\nAfter evaluating all of the data points in this case, the presentation of @NAME@ is NOT consistent with fracture, meningitis/encephalitis, SAH/sentinel bleed, Intracranial Hemorrhage (ICH) (subdura/epidural), acute obstructive hydrocephalus, space occupying lesions, CVA, CO Poisoning, Basilar artery dissection, preeclampsia, cerebral venous thrombosis, hypertensive emergency, suicidal ideation, temporal Arteritis, Idiopathic Intracranial Hypertension (pseudotumor cerebri).\n\nStrict return and follow-up precautions have been given by me personally.\n\nData Reviewed/Counseling: I have reviewed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "Head laceration",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "@NAME@ has no evidence of retained foreign body; nerve, tendon, or vascular injury; fracture; compartment syndrome; or infection.\n\nAfter evaluating all of the data points in this case, the presentation of @NAME@ is NOT consistent with with emergent intracranial pathology, including hemorrhage, epidural, subdural, or other intra-cranial bleeding.\n\nSimilarly, the presentation of @NAME@ is not consistent with fracture, other head or neck injury, septal hematoma, or other emergent injury. @NAME@ meets low risk criteria for head trauma and risk/benefits of additional studies and outpatient observation were discussed.\n\nData Reviewed/Counseling: I have reviwed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "Head Trauma",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "@NAME@ has no evidence of retained foreign body; nerve, tendon, or vascular injury; fracture; compartment syndrome; or infection.\n\nAfter evaluating all of the data points in this case, the presentation of @NAME@ is NOT consistent with with emergent intracranial pathology, including hemorrhage, epidural, subdural, or other intra-cranial bleeding.\n\nSimilarly, the presentation of @NAME@ is not consistent with fracture, other head or neck injury, septal hematoma, or other emergent injury. @NAME@ meets low risk criteria for head trauma and risk/benifits of additional studies and outpatient observation were discussed.\n\nData Reviewed/Counseling: I have reviwed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "Asymptomatic hypertension",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "No e/o hypertensive emergency. Started on additional agent with goal of gradual cautious reduction of BP to normal level.\n\nData Reviewed/Counseling: I have reviwed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home.\nKidney stone\nFemale\n\nGiven the large differential diagnosis for @NAME@, the decision making in this case is of high complexity.\n\nAfter evaluating all of the data points in this case, the presentation of @NAME@ is NOT consistent with an infected stone, nephric abscess, sepsis, or renal failure.\n\nSimilarly, this presentation is NOT consistent with AAA; Mesenteric Ischemia; Bowel Perforation; Bowel Obstruction; Sigmoid Volvulus; Diverticulitis; Appendicitis; Peritonitis; Cholecystitis, ascending cholangitis or other gallbladder disease; perforated ulcer; significant GI bleeding, splenic rupture/infarction; Hepatic abscess; or other surgical/acute abdomen.\n\nSimilarly, this presentation is NOT consistent with ACS or Myocardial Ischemia; Pulmonary Embolism; fistula; incarcerated hernia; Pancreatitis, Aortic Dissection; Diabetic Ketoacidosis; Ischemic colitis; Psoas or other abscess; Methanol poisoning; Heavy metal toxicity; or porphyria.\n\nSimilarly, this case is NOT consistent with Fitz-Hugh-Curtis Syndrome, Ectopic Pregnancy, Placental Abruption, PID, Tubo-ovarian abscess, Ovarian Torsion, or STI.\n\nSimilarly, this presentation is NOT consistent with acute coronary syndrome, pulmonary embolism, dissection, borhaave's, arrythmia, pneumothorax, cardiac tamponade, or other emergent cardiopulmonary condition.\n\nSimilarly, this presentation is NOT consistent with pyelonephritis, urinary infection, pneumonia, or other focal bacterial infection.\n\nStrict return and follow-up precautions have been given by me personally to the patient/family/caregiver(s).\n\nData Reviewed/Counseling: I have reviwed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home.\nMale\n\nGiven the large differential diagnosis for @NAME@, the decision making in this case is of high complexity.\n\nAfter evaluating all of the data points in this case, the presentation of @NAME@ is NOT consistent with an infected stone, nephric abscess, sepsis, or renal failure.\n\nSimilarly, this presentation is not consistent with a AAA; Mesenteric Ischemia; Bowel Perforation; Bowel Obstruction; Sigmoid Volvulus; Diverticulitis; Appendicitis; Peritonitis; Cholecystitis, ascending cholangitis or other gallbladder disease; perforated ulcer; significant GI bleeding, splenic rupture/infarction; Hepatic abscess; GI bleeding, or other surgical/acute abdomen.\n\nSimilarly, this presentation is NOT consistent with ACS or Myocardial Ischemia; Pulmonary Embolism; fistula; incarcerated hernia; Pancreatitis, Aortic Dissection; Diabetic Ketoacidosis; Ischemic colitis; Psoas or other abscess; Methanol poisoning; Heavy metal toxicity; or porphyria.\n\nSimilarly, this case is NOT consistent with testicular torsion, prostatitis, hernia, STI, or other testicular issue.\n\nSimilarly, this presentation is NOT consistent with acute coronary syndrome, pulmonary embolism, dissection, borhaave's, arrythmia, pneumothorax, cardiac tamponade, or other emergent cardiopulmonary condition.\n\nSimilarly, this presentation is NOT consistent with sepsis, pyelonephritis, urinary infection, pneumonia, or other focal bacterial infection.\n\nStrict return and follow-up precautions have been given by me personally to the patient/family/caregiver(s).\n\nData Reviewed/Counseling: I have reviwed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "Knee Trauma",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "@NAME@ has no evidence of an open wound; fracture; dislocation; retained foreign body; nerve or vascular injury; compartment syndrome; septic joint or other infection.\n\nGiven her equivocal knee exam due to acute trauma, she has been splinted with a knee immobilizer with crutches and told to follow up with her PMD and/or orthopedics in the next several days for further evaluation after the swelling has resolved and the knee exam is more reliable. She may require an MRI or other studies at that time.\n\nData Reviewed/Counseling: I have reviwed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "Laceration",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "@NAME@ has no evidence of retained foreign body; nerve, tendon, or vascular injury; fracture; compartment syndrome; or infection.\n\nData Reviewed/Counseling: I have reviwed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "Low back pain",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "Not consistent with fracture, AAA, kidney stone, surgical abdomen, kidney infection, renal failure, pneumonia, paraspinal or epidural infection, cord compression or cauda equina, pyelonephritis or UTI, or other emergent cause.\n\nData Reviewed/Counseling: I have reviwed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "General ortho",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "@NAME@ has no evidence of a fracture; dislocation; retained foreign body; nerve, tendon, or vascular injury; compartment syndrome; DVT; septic joint, cellulitis, osteomyelitis, abscess, or other infection.\n\nData Reviewed/Counseling: I have reviwed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "Otitis media peds (1)",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "After evaluating all of the data points in this case, the presentation of @NAME@ is NOT consistent with meningitis, sepsis and/or bactermia. @NAME@ is not severely dehydrated and can tolerate POs at home.\n\nFurther, the presentation of @NAME@ is NOT consistent with surgical abdomen and/or peritonitis, for example appendicitis; bowel prerforation or obstruction; volvulus; intussception; pyloric stenosis; gallbladder disease; splenic rupture/infarction; Hepatic abscess; psoas or other abscess.\n\nSimilarly, this presentation is NOT consistent with Kawasaki's or other emergency cause of fever.\n\nFurther, the presentation of @NAME@ is NOT consistent pyelonephritis, urinary infection, or pneumonia.\n\nFurther, there is no evidence of malignant otitis externa, perforated tympanic membrane, or mastoiditis.\n\nStrict return and follow-up precautions have been given by me personally to parent(s)/guardian(s).\n\nData Reviewed/Counseling: I have reviwed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "Otitis media peds (2)",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "uspect AOM due to the presence of <48hr symptoms, middle ear effusion and inflammation with otalgia. Severe features include (>48hr symptoms, severe otalgia,T>39C). (Treat all patients <6mo, severe symptoms, 6-23mo with b/l symptoms) -This patient did NOT fail prior therapy and so will be treated with amoxicillin -This patient did fail prior therapy and so will be treated with amoxicillin-clav -This patient is a candidate for outpatient wait-and-wwatch therapy\n\nDoubt chronic otitis media, simple middle ear effusion, mastoiditis, cholesteatoma, otitis externa, TM perforation    Upon re-evaluation, the patient is well hydrated non-toxic appearing and tolerating PO intake. There is no suspicion of immunocompromised state, their vaccines are up to date, there is no prior serious bacterial infections with good home/social environment including a care taker who is reliable and the child has a PMD who can see them promptly for followup. The caretaker was instructed on avoiding second hand smoke and staying UTD on their vaccines.\n\nVital signs stable and patient well appearing. Pain controlled in ED, discharged with _, care giver instructed on strict return precautions and outpatient pain control methods. They agree with assessment and plan which was explained and repeated back with questions answered . They agree to follow up with primary doctor for further workup and management."
+  },
+  {
+    "name": "Paronychia",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "There is no area of retained pus after procedure. The presentation of @NAME@ is NOT consistent with necrotizing fascitis, osteomyolitis, flexor tenosynovitis, felon or other infection.. There is no evidence of retained foreign body (besides packing), or neurovascular or tendon injury. The presentation of @NAME@ is NOT consistent with sepsis and/or bacturemia. @NAME@ meets outpatient criteria for treatment and is sent home on appropriate antibiotic coverage.\n\nStrict return and follow-up precautions have been given by me personally to the patient/family/caregiver(s).\n\nData Reviewed/Counseling: I have reviwed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "Psych discharge",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "@NAME@ has no suicidal ideations or plan, no homicidal ideation or plan, and does have a plan for self care; @NAME@ does not meet any hold-able criteria. @NAME@ has no evidence of delirium or an organic cause of psychiatric illness. @NAME@ is aware that we have social services available at any time, if needing any additional help. @NAME@ is advised not to use illegal drugs or substances, and not to drive or operate heavy machinery if using alcohol or other mind-altering substances.\n\nData Reviewed/Counseling: I have reviwed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "Pediatric Rash",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "Suspect viral exanthum Doubt Measles, SJS, SSSS, TEN, Kawasaki or Anaphylaxis Doubt Drug rash, Henoch-Schonlein Purpura (HSP), Herpangina, Herpes simplex virus, Infectious Mononucleosis, Meningitis, Measles, Molluscum contagiosum, Roseola infantum, Rubella, Scarlet fever, Smallpox, Varicella (Chickenpox)\n\nUpon re-evaluation, patient is well hydrated non-toxic appearing and tolerating PO intake. There is no suspicion of immunocompromised state, their vaccines are up to date, there is no prior sserious bacterial infections with good home/social environment including a care taker who is reliable and the child has a PMD who can see them promptly for followup.\n\nVital signs stable and patient well appearing. Pain controlled in ED, discharged with _, care giver and patient instructed on strict return precautions and outpatient pain control methods. They agree with assessment and plan which was explained and repeated back with questions answered . They agree to follow up with primary doctor for further workup and management."
+  },
+  {
+    "name": "Pyelo female",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "@NAME@ has pyelonephritis, without evidence of complication. There is no evidence of sepsis ongoing after antibiotic treatment initiated and @NAME@ meets widely accepted outpatient treatment criteria.\n\nGiven the large differential diagnosis for @NAME@, the decision making in this case is of high complexity.\n\nAfter evaluating all of the data points in this case, the presentation of @NAME@ is NOT consistent with AAA; Mesenteric Ischemia; Bowel Perforation; Bowel Obstruction; Sigmoid Volvulus; Diverticulitis; Appendicitis; Peritonitis; Cholecystitis, ascending cholangitis or other gallbladder disease; perforated ulcer; significant GI bleeding, splenic rupture/infarction; Hepatic abscess; or other surgical/acute abdomen.\n\nSimilarly, this presentation is NOT consistent with ACS or Myocardial Ischemia or cardiac etiology; Pulmonary Embolism; fistula; incarcerated hernia; Pancreatitis, Aortic Dissection; Diabetic Ketoacidosis; Kidney Stone; Ischemic colitis; Psoas or other abscess; Methanol poisoning; Heavy metal toxicity; or porphyria.\n\nSimilarly, this case is NOT consistent with Fitz-Hugh-Curtis Syndrome, Ectopic Pregnancy, Placental Abruption, PID, Tubo-ovarian abscess, Ovarian Torsion, or STI.\n\nSimilarly, this presentation is NOT consistent with acute coronary syndrome, pulmonary embolism, dissection, borhaave's, arrythmia, pneumothorax, cardiac tamponade, pneumonia, or other emergent cardiopulmonary condition.\n\nStrict return and follow-up precautions have been given by me personally to the patient/family/caregiver(s).\n\nData Reviewed/Counseling: I have reviwed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "Salter Harris Type 1",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "Given tenderness to palpation over possible growth plate, patient will be splinted in case of Salter Harris type 1 fracture, with plan to follow up for a recheck by pediatrics/orthopedics in 5-6 days.\n\n@NAME@ has no evidence of an open fracture; dislocation; retained foreign body; nerve, tendon, or vascular injury; compartment syndrome; septic joint or other infection.\n\nData Reviewed/Counseling: I have reviwed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "Sickle cell crisis",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "@NAME@'s presentation is not consistent with new bony infarction, avascular necrosis, acute chest syndrome, pneumonia, asthma exacerbation, new pulmonary hypertension, surgical abdomen, infection, worsening anemia, CVA, TIA, ICH, priapism.\n\nData Reviewed/Counseling: I have reviwed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "Seizure (peds)",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "Suspect unprovoked seizure Highly doubt isoniazid ingestion or other toxic ingestions, meningitis, encephalopathy, ICH, ICM, encepalitis, hydrocephalus, pseudoseizure, hypoglycemia. Doubt accidental or non-accidental trauma. Doubt seizure mimics such as cardiac arrythmia, GERD, syncope, breath holding spells. As patient without recent infection or fever, doubt simple or complex febrile seizure     Vital signs stable and patient well appearing. Pain controlled in ED, discharged with _, care giver and patient instructed on strict return precautions and outpatient pain control methods. They agree with assessment and plan which was explained and repeated back with questions answered . They agree to follow up with primary doctor for further workup and management. Caregivers counseled that 4-6% of children <16yo have seizures, 6-12% of them have no known inciting event"
+  },
+  {
+    "name": "Symptomatic cholelithiasis",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "Patient with symptomatic cholilithiasis, however no current evidence of cholecystitis, ascending cholangitis, or other complication. Given precautions personally by me to return if concerning symptoms for latter.\n\nGiven the large differential diagnosis for @NAME@, the decision making in this case was of high complexity.\n\nAfter evaluating all of the data points in this case, the presentation of Alexandria Meyer is NOT consistent with AAA; Mesenteric Ischemia; Bowel Perforation; Bowel Obstruction; Sigmoid Volvulus; Diverticulitis; Appendicitis; Peritonitis; perforated ulcer; significant GI bleeding, splenic rupture/infarction; Hepatic abscess; or other surgical/acute abdomen.\n\nSimilarly, this presentation is NOT consistent with ACS or Myocardial Ischemia or cardiac etiology; Pulmonary Embolism; fistula; incarcerated hernia; Pancreatitis, Aortic Dissection; Diabetic Ketoacidosis; Kidney Stone; Ischemic colitis; Psoas or other abscess; Methanol poisoning; Heavy metal toxicity; or porphyria.\n\nSimilarly, this case is NOT consistent with Fitz-Hugh-Curtis Syndrome, Ectopic Pregnancy, Placental Abruption, PID, Tubo-ovarian abscess, Ovarian Torsion, or STI.\n\nSimilarly, this presentation is NOT consistent with acute coronary syndrome, pulmonary embolism, dissection, borhaave's, arrythmia, pneumothorax, cardiac tamponade, or other emergent cardiopulmonary condition.\n\nSimilarly, this presentation is NOT consistent with sepsis, pyelonephritis, urinary infection, pneumonia, or other focal bacterial infection.\n\nStrict return and follow-up precautions have been given by me personally to the patient/family/caregiver(s).\n\nData Reviewed/Counseling: I have reviwed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "General Trauma",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "@NAME@'s presentation and findings are not consistent with intracranial pathology including hemorrhage, epidural, subdural, etc. No evidence of fracture, other head or neck injury, septal hematoma, or other injury. Meets low risk criteria for head trauma and risk/benifits of additional studies and outpatient observation discussed.\n\nIt is not consistent with a spine injury; vertebral fracture or dislocation; tracheo-broncheal injury; esophageal injury; major vascular injury; or other spine injury.\n\nAdditionally, it is not consistent with pneumo- or hemo-thorax; pulmonary contusion; ARDS; cardiac tamponade; cardiac contusion; mediastinal disruption; aortic injury; or other major chest trauma.\n\nAdditionally, @NAME@'s presentation is not consistent with intra-abdominal or retro-peritoneal bleeding; liver, spleen, kidney, or other solid organ injury; stomach, large or small bowel perforation; ureter, kidney, bladder or urethral injury; pelvic fracture; or other major abdominal trauma.\n\nAdditionally, @NAME@ has no evidence of an open fracture; fracture, dislocation; retained foreign body; nerve, tendon, or vascular injury; compartment syndrome; septic joint or other infection.\n\nData Reviewed/Counseling: I have reviwed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "UTI female",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "The presentation is NOT consistent with pyelonephritis, sepsis, or sterile pyuria..\n\nGiven the large differential diagnosis, the decision making in this case is of high complexity.\n\nAfter evaluating all of the data points in this case, the presentation of @NAME@ is NOT consistent with AAA; Mesenteric Ischemia; Bowel Perforation; Bowel Obstruction; Sigmoid Volvulus; Diverticulitis; Appendicitis; Peritonitis; Cholecystitis, ascending cholangitis or other gallbladder disease; perforated ulcer; significant GI bleeding, splenic rupture/infarction; Hepatic abscess; or other surgical/acute abdomen.\n\nSimilarly, this presentation is NOT consistent with ACS or Myocardial Ischemia or cardiac etiology; Pulmonary Embolism; fistula; incarcerated hernia; Pancreatitis, Aortic Dissection; Diabetic Ketoacidosis; Kidney Stone; Ischemic colitis; Psoas or other abscess; Methanol poisoning; Heavy metal toxicity; or porphyria.\n\nSimilarly, this case is NOT consistent with Fitz-Hugh-Curtis Syndrome, Ectopic Pregnancy, Placental Abruption, PID, Tubo-ovarian abscess, Ovarian Torsion, or STI.\n\nSimilarly, this presentation is NOT consistent with acute coronary syndrome, pulmonary embolism, dissection, borhaave's, arrythmia, pneumothorax, cardiac tamponade, or other emergent cardiopulmonary condition.\n\nSimilarly, this presentation is NOT consistent with pneumonia, or other focal bacterial infection.\n\nStrict return and follow-up precautions have been given by me personally to the patient/family/caregiver(s).\n\nData Reviewed/Counseling: I have reviwed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "Vaginal bleeding in pregnancy",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "Given the large differential diagnosis for @NAME@, the decision making in this case is of high complexity.\n\nThere is no evidence of an ectopic pregnancy, life-threatening vaginal bleeding/serious anemia, or infection. I have additionally performed an evaluation of the need for RhoGam and notified the patient of her blood type.\n\nFurther, after evaluating all of the data points in this case, the presentation of @NAME@ is NOT consistent with AAA; Mesenteric Ischemia; Bowel Perforation; Bowel Obstruction; Sigmoid Volvulus; Diverticulitis; Appendicitis; Peritonitis; Cholecystitis, ascending cholangitis or other gallbladder disease; perforated ulcer; significant GI bleeding, splenic rupture/infarction; hepatic abscess; or other surgical/acute abdomen.\n\nSimilarly, this presentation is NOT consistent with ACS or Myocardial Ischemia or cardiac etiology; pulmonary embolism; fistula; incarcerated hernia; Pancreatitis, Aortic Dissection; Diabetic Ketoacidosis; Kidney Stone; Ischemic colitis; Psoas or other abscess; Methanol poisoning; Heavy metal toxicity; or porphyria.\n\nSimilarly, this case is NOT consistent with Fitz-Hugh-Curtis Syndrome,Placental Abruption, PID, Tubo-ovarian abscess, Ovarian Torsion, or STI.\n\nSimilarly, this presentation is NOT consistent with sepsis, pyelonephritis, urinary infection, pneumonia, or other focal bacterial infection.\n\nStrict return and follow-up precautions have been given by me personally to the patient/family/caregiver(s).\n\nData Reviewed/Counseling: I have reviwed the patient's vital signs, nursing notes, and other relevant tests/information. I had a detailed discussion regarding the historical points, exam findings, and any diagnostic results supporting the discharge diagnosis. I also discussed the need for outpatient follow-up and the need to return to the ED if symptoms worsen or if there are any questions or concerns that arise at home."
+  },
+  {
+    "name": "Upper Respiratory Infection",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "The presentation of @NAME@ is consistent with upper respiratory infection, viral in nature. There were no clinical or ancillary findings suggestive of bronchitis, pneumonia, acute sinusitis, chronic sinusitis, or streptococcal pharyngitis, thus there was no indications for antibiotics.\n\nUpon discharge, @NAME@ has no evidence of respiratory failure and is comfortable without respiratory distress. Additionally, @NAME@ has no evidence of airway compromise and is speaking in full/complete sentences without difficulty. @NAME@ meets outpatient treatment criteria.\n\nData Reviewed/Counseling: I have reviewed the patient's vital signs, nursing notes, and other relevant ancillary testing/information. I have had a detailed discussion with the patient regarding the historical points, examination findings, and any diagnostic results. I have also discussed the need for outpatient follow-up. I have recommended symptomatic therapy with over the counter remedies.\n\n@NAME@ has been counseled to return to the Emergency Department if symptoms worsen or if there are any questions or concerns that arise while at home.\n\n@NAME@ was encouraged to practice good infection control procedures to include but not limited to frequent hand washing to lessen likelihood of transmission of this infection."
+  },
+  {
+    "name": "Bronchitis",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "The presentation of @NAME@ is consistent with acute bronchitis. More serious diseases of the lower respiratory tract were considered but in the absence of clinical or ancillary findings highly suggestive of such, these conditions were considered unlikely. Such diseases include but are not limited to pneumonia, asthma (extrinsic or intrinsic), influenza, retained foreign body, or occupational exposures. Other causes of cough such as GERD, pharyngitis, sinusitis, or COPD were also felt to be unlikely.\n\nUpon discharge, @NAME@ has no evidence of respiratory failure and is comfortable without respiratory distress. Additionally, @NAME@ has no evidence of airway compromise and is speaking in full/complete sentences without difficulty. @NAME@ meets outpatient treatment criteria.\n\nData Reviewed/Counseling: I have reviewed the patient's vital signs, nursing notes, and other relevant ancillary testing/information. I have had a detailed discussion with the patient regarding the historical points, examination findings, and any diagnostic results. I have also discussed the need for outpatient follow-up. I have recommended symptomatic therapy directed at alleviating symptoms as care for acute bronchitis is primarily supportive. Given the absence of serious comorbid conditions such as age greater than 65, diabetes, congestive heart failure, immunosuppression no antibiotics were proscribed at this time.\n\n@NAME@ has been counseled to return to the Emergency Department if symptoms worsen or if there are any questions or concerns that arise while at home.\n\n@NAME@ encouraged to practice good infection control procedures to include but not limited to frequent hand washing to lessen likelihood of transmission of this infection."
+  },
+  {
+    "name": "Strep Throat",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "The presentation of @NAME@ is consistent with streptococcal pharyngitis based on sufficient Centor Criteria and/or positive rapid diagnostic testing. The presentation of @NAME@ is NOT consistent with airway compromising conditions such as but not limited to retropharyngeal abscess, peritonsillar abscess, or epiglottitis.\n\nUpon discharge, @NAME@ has no evidence of respiratory failure and is comfortable without respiratory distress. Additionally, @NAME@ has no evidence of airway compromise and is speaking in full/complete sentences without difficulty. @NAME@ was managing are respiratory/airway secretions at time of discharge. @NAME@ meets outpatient treatment criteria.\n\nData Reviewed/Counseling: I have reviewed the patient's vital signs, nursing notes, and other relevant ancillary testing/information. I have had a detailed discussion with the patient regarding the historical points, examination findings, and any diagnostic results. I have also discussed the need for outpatient follow-up. Antibiotics were prescribed in accordance with Centor Criteria and/or positive diagnostic testing.\n\n@NAME@ has been counseled to return to the Emergency Department if symptoms worsen in particular if they develop difficulty breathing, difficulty swallowing, uncontrolled pain, airway compromise, or if there are any questions or concerns that arise while at home."
+  },
+  {
+    "name": "Conjunctivitis",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "The presentation of @NAME@ is consistent with conjunctivitis without any red flags (visual acuity changes, ciliary flush, photophobia, severe foreign body sensation, corneal opacity, fixed pupil, or headache with nausea). The presentation of @NAME@ is NOT consistent with iritis, acute glaucoma, foreign body, contact lens complications, uveitis, keratoconjunctivitis, chemical irritant exposure, or nasolacrimal duct obstruction.\n\nUpon discharge, @NAME@ had no evidence of serious visual compromise. @NAME@ meets outpatient treatment criteria.\n\nData Reviewed/Counseling: I have reviewed the patient's vital signs, nursing notes, and other relevant ancillary testing/information. I have had a detailed discussion with the patient regarding the historical points, examination findings, and any diagnostic results. I have also discussed the need for outpatient follow-up.\n\n@NAME@ has been counseled to return to the Emergency Department if symptoms worsen or if there are any questions or concerns that arise while at home.\n\nClinicians are often asked to advise patients and families as to when it is safe to return to work or school. Bacterial and viral conjunctivitis are both highly contagious and spread by direct contact with secretions or contact with contaminated objects. Infected individuals should not share handkerchiefs, tissues, towels, cosmetics, linens, or silverware. The safest approach to prevent spread to others is to stay home until there is no longer any discharge, but this is not always feasible for most students nor for those who work outside the home. Most daycare centers and schools require that students receive 24 hours of topical therapy before returning to school. Such therapy will probably reduce the transmission of conjunctivitis due to bacterial infection but will do nothing to reduce the spread of viral infections.\n\nI have recommend to this patient to consider that their problem is like a cold, and their decision to return to work or school should be similar to the one they would make in that situation. Those who have contact with the very old, the very young, and immune-compromised individuals should take care to avoid spread of infection from their eye secretions to these susceptible people. Further questions about when to return should be addressed to the patient's primary care provider at follow-up."
+  },
+  {
+    "name": "Corneal Abrasion",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "The presentation of @NAME@ is consistent with a corneal abrasion. Based on physical examination, history, and ancillary testing, the presentation is NOT consistent with acute angle-closure glaucoma, conjunctivitis, blepharitis, retained foreign body, epidemic keratoconjunctivitis, iritis/uveitis, herpes zoster ophthalmicus, or full thickness injury to corneal.\n\nUpon discharge, @NAME@ meet criteria for outpatient management as there is no evidence of deep eye injury, retained foreign body, or monocular vision.\n\nData Reviewed/Counseling: I have reviewed the patient's vital signs, nursing notes, and other relevant ancillary testing/information. I have had a detailed discussion with the patient regarding the historical points, examination findings, and any diagnostic results. I have also discussed the need for outpatient follow-up.\n\n@NAME@ has been advised to return to the Emergency Department or to see their primary care provider if they continue to experience blurred vision or reduction in visual acuity, they experience considerable pain, despite analgesics, or if symptoms persist. The patient has been advised that pain will not resolve with use of antibiotic ointment alone. They should be re-evaluated in 24 hours; if the abrasion has not fully healed, then they should be evaluated again three to four days later. Any worsening of symptoms should prompt a thorough re-evaluation."
+  },
+  {
+    "name": "Mild Traumatic Brain Injury / Concussion (over age 16)",
+    "tags": [
+      "differential diagnosis",
+      "general"
+    ],
+    "group": "differential diagnosis documentation",
+    "note": "The presentation of @NAME@ is consistent with mild traumatic brain injury (concussion).\n\nAdditionally after careful examination to include detailed neurological examination, @NAME@ has no evidence of a basilar skull fracture, other skull fracture, focal or lateralizing neurological deficits. Patient was without retrograde amnesia. Presentation of @NAME@ is NOT consistent with emergent intracranial pathology including hemorrhage, epidural/subdural/other intra-cranial bleeding.\n\n@NAME@ meets low risk criteria for closed head injury and risk benefits of additional evaluation and outpatient observation were discussed with patient. The New Orleans Criteria and Canadian CT Head rules were used in determining whether to proceed to CT neuroimaging.\n\nAfter greater than 2 hours observation in the emergency department during which patient had no significant deterioration (no decrease in GCS, persistent vomiting, progressive headache, or neurological deficit ), the patient is being discharged in the care of another responsible party for outpatient observation with strict return to Emergency Department precautions.\n\nData Reviewed/Counseling: I have reviewed the patient's vital signs, nursing notes, and other relevant ancillary testing/information. I have had a detailed discussion with the patient regarding the historical points, examination findings, and any diagnostic results. I have also discussed the need for outpatient follow-up. Post concussive syndrome including its time course and prognosis was discussed with patient.\n\nPatient instructions given by me to @NAME@ were as follows: You are not to return to any sporting activities or other heavy exertion until cleared back by another physician! You have been diagnosed with a head injury (concussion or mild TBI). Fortunately there is no evidence on evaluation that is a dangerous injury. However, you have \"bruised\" your brain and it may take some time before you return to feeling \"normal.\" Over the next several days you might experience some of the following symptoms: mild headache, difficulty concentrating, variations in your emotions, difficulty sleeping, or mild nausea. There symptoms usually go away after several days. It is important you rest and avoid stressing yourself in order to help your body heal. Avoid using alcohol or medications that can cause sleepiness such as narcotics or some antihistamines. You need to return to the Emergency Department promptly for increasing headache, repeated vomiting, weakness, clumsiness, drowsiness, confusion, \"not acting right,\" seizure, difficulty walking, repeated falling down or balance problems, change in vision/blurry vision, or fluid dripping from your nose or ear. Come back promptly for inability to feel or move any extremity normally. It’s okay to use over the counter Tylenol (325 to 650 mg by mouth every 6 hours as needed) for headache."
+  }
+]

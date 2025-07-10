@@ -1,0 +1,11 @@
+[
+    {
+      "name": "Observation Disclosure",
+      "tags": [
+        "observation",
+        "special time"
+      ],
+      "group": "observation documentation",
+      "note": "OBSERVATION REPORT The family history of @NAME@ is noncontributory. @NAME@ first seen as document in the chart. Observation began at [time] and was necessary in order to determine [name the rule-out/treatment/diagnosis/mgmt decision]. Upon re-evaluation, observation revealed that @NAME@ could be discharged and patient discharged at [time]. Total time of observation = [xxx] hours. "
+    }
+]
