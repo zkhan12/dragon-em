@@ -21,3 +21,12 @@ A static website to browse, search, and filter common auto-text phrases for emer
 **Note:**
 - All JSON files in `resources/wikem/` must be present for the app to function.
 - No build step is required; all code is static and client-side.
+
+## Disclaimer
+This website is for informational and educational purposes only. It is intended to help healthcare professionals streamline their documentation workflows by organizing commonly used auto-text phrases for Dragon Medical dictation.
+
+The clinical note examples presented here are not a substitute for medical judgment and should not be considered official templates or medical advice. Always review and modify any documentation to reflect the specifics of the patient encounter and comply with your institution’s standards.
+
+All note content was adapted and modified from WikEM.org, a free open-access medical education resource. Full credit goes to their contributors for compiling and sharing these materials.
+
+Dragon Medical One and the Dragon dictation system are trademarks owned by Nuance Communications, Inc. This site is not affiliated with or endorsed by Nuance or WikEM.

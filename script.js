@@ -4,6 +4,8 @@ let fuse;
 const searchInput = document.getElementById('search');
 const groupFilter = document.getElementById('chiefComplaintFilter');
 const resultsDiv = document.getElementById('results');
+const agreementModal = document.getElementById('agreementModal');
+const agreeBtn = document.getElementById('agreeBtn');
 
 const wikemFiles = [
   'ros.json',
@@ -19,6 +21,32 @@ const wikemFiles = [
 
 function normalize(str) {
   return (str || '').toLowerCase().trim();
+}
+
+// Check if user has already agreed
+function hasUserAgreed() {
+  return localStorage.getItem('dragonEMAgreed') === 'true';
+}
+
+// Mark user as agreed
+function markUserAgreed() {
+  localStorage.setItem('dragonEMAgreed', 'true');
+}
+
+// Show modal if user hasn't agreed
+function showAgreementModal() {
+  if (!hasUserAgreed()) {
+    agreementModal.classList.remove('hidden');
+    // Disable scrolling on body
+    document.body.style.overflow = 'hidden';
+  }
+}
+
+// Hide modal and enable site
+function hideAgreementModal() {
+  agreementModal.classList.add('hidden');
+  document.body.style.overflow = 'auto';
+  markUserAgreed();
 }
 
 async function loadAllPhrases() {
@@ -103,11 +131,17 @@ function renderResults(list) {
   });
 }
 
+// Event listeners
 searchInput.addEventListener('input', filterAndSearch);
 groupFilter.addEventListener('change', filterAndSearch);
+agreeBtn.addEventListener('click', hideAgreementModal);
 
 // Main init
 (async function() {
+  // Show agreement modal first
+  showAgreementModal();
+  
+  // Load phrases and setup site
   phrases = await loadAllPhrases();
   setupFilters();
   setupFuse();
